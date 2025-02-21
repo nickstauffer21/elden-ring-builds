@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.weapons-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 90%;
+  padding-top: 40px;
+}
+
+.weapon-dropdown {
+  height: 30px;
+  max-width: 250px;
+}
+
+/* Weapons List Sidebar*/
+
+.weapon-dropdown {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.weapons-list-display {
+  display: flex;
+  flex-direction: column;
+  padding-right: 100px;
+  cursor: pointer;
+}
+
+.selected-weapon-choice:hover {
+  color: white;
+}
+
+.filter-container {
+  display: flex;
+  flex-direction: column;
+}

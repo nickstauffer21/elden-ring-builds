@@ -1,0 +1,191 @@
+/* General Container Styles */
+.selected-weapon-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 2fr;
+  height: 100%;
+  width: 1000px;
+  background-color: #070000;
+  color: white;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+/* Headings */
+.selected-weapon-container h2 {
+  text-align: center;
+  width: 500px;
+  margin: 0;
+}
+
+/* Tables */
+.selected-weapon-container table {
+  width: 250px;
+  border-collapse: collapse;
+  margin: 5px;
+}
+
+.selected-weapon-container th,
+.selected-weapon-container td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ffffff;
+}
+
+/* Weapon Stats */
+.weapon-stats {
+  grid-column: 4 / 5;
+}
+
+/* Weapon Details */
+.weapon-details,
+.weapon-details div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Weapon Image */
+.weapon-image {
+  grid-column: 2 / 3;
+}
+
+.selected-weapon-image {
+  width: 225px;
+  align-self: center;
+}
+
+/* Damage Detail */
+.selected-weapon-damage-detail > tr > th {
+  width: 100px;
+}
+
+/* Filters */
+.filter-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  width: 100%;
+}
+
+.filter-label {
+  margin-right: 10px;
+}
+
+/* Upgrade Affinities */
+.upgrade-affinities {
+  display: flex;
+  flex-direction: column;
+  padding-right: 20px;
+  grid-column: 3 / 4;
+}
+
+/* Weapon Skills */
+.weapon-skill {
+  color: #c9df0a;
+}
+
+/* Weapon Affinity Colors */
+.standard-affinity {
+  color: white;
+}
+
+.heavy-affinity,
+.keen-affinity,
+.quality-affinity {
+  color: gray;
+}
+
+.magic-affinity {
+  color: rgb(42, 42, 233);
+}
+
+.cold-affinity {
+  color: lightblue;
+}
+
+.fire-affinity,
+.flame-affinity {
+  color: rgb(252, 117, 7);
+}
+
+.lightning-affinity,
+.sacred-affinity {
+  color: yellow;
+}
+
+.blood-affinity,
+.occult-affinity {
+  color: red;
+}
+
+/* Custom Dropdown */
+.custom-dropdown {
+  display: flex;
+  flex-direction: column;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.dropdown-selected {
+  background: rgb(0, 0, 0);
+  border: 1px solid #ccc;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.dropdown-options {
+  display: none;
+  position: absolute;
+  background: rgb(0, 0, 0);
+  border: 1px solid #ccc;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  z-index: 100;
+}
+
+.dropdown:hover .dropdown-options {
+  display: block;
+}
+
+.dropdown-option {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.dropdown-option:hover {
+  background: #251a1a;
+}
+
+/* Random Weapon Button */
+.random-weapon-button {
+  top: 40px;
+  margin-top: 10px;
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #c9df0a;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+.random-weapon-button:hover {
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.random-weapon-button:active {
+  transform: translate(-1px);
+}

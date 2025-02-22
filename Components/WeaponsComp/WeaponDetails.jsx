@@ -1,4 +1,4 @@
-import React, { useState, useContext, useEffect } from "react";
+import React, { useContext, useEffect } from "react";
 import { DataContext } from "./DataProvider";
 import "./weaponsDetail.css";
 import useLocalStorage from "../useLocalStorage";
@@ -13,12 +13,26 @@ export default function WeaponDetail({
   const { weapons } = useContext(DataContext);
   const [selectedUpgrade, setSelectedUpgrade] = useLocalStorage(
     "+0",
-    `${selectedWeapon?.name}-upgrade`
+    selectedWeapon?.upgrades[0]?.upgrade || "+0"
   );
   const [selectedAffinity, setSelectedAffinity] = useLocalStorage(
     "Standard",
-    `${selectedWeapon?.name}-affinity`
+    selectedWeapon?.upgrades[0]?.affinity || "Standard"
   );
+
+  useEffect(() => {
+    if (selectedWeapon) {
+      setSelectedAffinity((prevAffinity) => {
+        return (
+          prevAffinity || selectedWeapon?.upgrades[0]?.affinity || "Standard"
+        );
+      });
+
+      setSelectedUpgrade((prevUpgrade) => {
+        return prevUpgrade || selectedWeapon?.upgrades[0]?.upgrade || "+0";
+      });
+    }
+  }, [selectedWeapon]);
 
   useEffect(() => {
     if (selectedWeapon?.name && weapons.length > 0) {
@@ -66,6 +80,7 @@ export default function WeaponDetail({
     Sacred: "sacred-affinity",
     Cold: "cold-affinity",
     Magic: "magic-affinity",
+    Poison: "poison-affinity",
     Blood: "blood-affinity",
     Occult: "occult-affinity",
   };

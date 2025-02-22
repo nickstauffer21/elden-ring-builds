@@ -113,6 +113,10 @@
   color: yellow;
 }
 
+.poison-affinity {
+  color: green;
+}
+
 .blood-affinity,
 .occult-affinity {
   color: red;

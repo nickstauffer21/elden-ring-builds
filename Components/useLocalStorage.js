@@ -19,5 +19,8 @@ export default function useLocalStorage(key, initialValue) {
     }
   }, [key, storedValue]);
 
+  useEffect(() => {
+    console.log("storedValue changed:", storedValue);
+  }, [storedValue]);
   return [storedValue, setStoredValue];
 }

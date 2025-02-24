@@ -4,12 +4,12 @@ import { DataContext } from "../../Components/WeaponsComp/DataProvider";
 import "./SavedBuilds.css";
 
 export default function SavedBuilds() {
+  const { savedBuilds, buildState } = useContext(BuildStateContext);
   const {
     weapons: weaponData,
     armor: armorData,
     talismans: talismanData,
   } = useContext(DataContext);
-  const { savedBuilds, buildState } = useContext(BuildStateContext);
 
   const getItemDetails = (id, data) => {
     const item = data.find((item) => item.id === id);
@@ -23,7 +23,7 @@ export default function SavedBuilds() {
       ) : (
         savedBuilds.map((build, index) => (
           <div key={index}>
-            <h3>Build {index + 1}</h3>
+            <h3 className="build-name">{build.name}</h3>
             <div className="build-item-container">
               <h4>Armor</h4>
               {Object.entries(build.armor).map(([type, id]) => {

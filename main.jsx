@@ -7,22 +7,24 @@ import DataProvider from "./Components/WeaponsComp/DataProvider";
 import Builds from "./pages/Builds/Builds";
 import Weapons from "./pages/Weapons/Weapons";
 import SavedBuilds from "./pages/Builds/SavedBuilds";
+import BuildStateProvider from "./pages/Builds/BuildStateProvider";
 
 function Main() {
   return (
     <DataProvider>
-      <BrowserRouter
-        future={{ v7_startTransition: true, v7_relativeSplatPath: true }}
-      >
-        <Routes>
-          <Route path="/" element={<Layout />}>
-            <Route path="builds" element={<Builds />}>
-              <Route path="builds/saved" element={<SavedBuilds />} />
+      <BuildStateProvider>
+        <BrowserRouter
+          future={{ v7_startTransition: true, v7_relativeSplatPath: true }}
+        >
+          <Routes>
+            <Route path="/" element={<Layout />}>
+              <Route path="builds" element={<Builds />} />
+              <Route path="saved-builds" element={<SavedBuilds />} />
+              <Route path="weapons" element={<Weapons />} />
             </Route>
-            <Route path="weapons" element={<Weapons />} />
-          </Route>
-        </Routes>
-      </BrowserRouter>
+          </Routes>
+        </BrowserRouter>
+      </BuildStateProvider>
     </DataProvider>
   );
 }

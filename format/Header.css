@@ -13,6 +13,10 @@ body {
   font-family: EB Garamond;
 }
 
+.nav {
+  display: flex;
+}
+
 .logo {
   display: flex;
   align-items: center;
@@ -47,4 +51,18 @@ body {
   font-weight: bold;
   color: #bd6707;
   text-decoration: underline;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  background-color: black;
+  padding: 20px;
+  border-radius: 7px;
+  min-width: 150px;
+}
+
+.nav-dropdown:hover .dropdown-content {
+  display: block;
 }

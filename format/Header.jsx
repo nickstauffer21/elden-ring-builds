@@ -13,9 +13,16 @@ export default function Header() {
         />
       </Link>
       <nav className="nav">
-        <NavLink className="nav-link" to="/builds">
-          Builds
-        </NavLink>
+        <div className="nav-dropdown">
+          <NavLink className="nav-link" to="/builds">
+            Builds
+          </NavLink>
+          <div className="dropdown-content">
+            <NavLink className="nav-link" to="/saved-builds">
+              Saved Builds
+            </NavLink>
+          </div>
+        </div>
         <NavLink className="nav-link" to="/weapons">
           Weapons
         </NavLink>

@@ -1,40 +1,20 @@
-import React, { useContext } from "react";
-
+import React, { useContext, createContext } from "react";
 import "./Builds.css";
 import { DataContext } from "../../Components/WeaponsComp/DataProvider";
+import { BuildStateContext } from "./BuildStateProvider";
 import BuildSelector from "./BuildSelector";
 import BuildSidebar from "./BuildSidebar";
-import useLocalStorage from "../../Components/useLocalStorage";
 
 export default function Builds() {
   const id = "0";
   const { weapons, armor, talismans } = useContext(DataContext);
+  const { buildState, setBuildState, saveBuilds, setSavedBuilds } =
+    useContext(BuildStateContext);
 
   const helmets = armor.filter((item) => item.type === "helm");
   const chest = armor.filter((item) => item.type === "chest armor");
   const gauntlets = armor.filter((item) => item.type === "gauntlets");
   const greaves = armor.filter((item) => item.type === "leg armor");
-
-  const [buildState, setBuildState] = useLocalStorage("buildstate", {
-    armor: {
-      helmet: helmets[0]?.id || "",
-      chest: chest[0]?.id || "",
-      gauntlets: gauntlets[0]?.id || "",
-      greaves: greaves[0]?.id || "",
-    },
-    talismans: {
-      talisman1: null,
-      talisman2: null,
-      talisman3: null,
-      talisman4: null,
-    },
-    weapons: {
-      weapon1: null,
-      weapon2: null,
-      weapon3: null,
-      weapon4: null,
-    },
-  });
 
   const handleSelectedArmor = (type, id) => {
     setBuildState((prev) => ({
@@ -44,7 +24,6 @@ export default function Builds() {
   };
 
   const handleSelectedWeapon = (slot, id) => {
-    console.log("Updating Weapons State:", { slot, id });
     setBuildState((prev) => ({
       ...prev,
       weapons: { ...prev.weapons, [slot]: id },
@@ -97,7 +76,12 @@ export default function Builds() {
     ));
   };
 
-  console.log("Weapons State:", buildState.weapons);
+  const setCurrentBuild = () => {
+    setSavedBuilds((prev) => [...prev, buildState]);
+  };
+  const wipeBuilds = () => {
+    setSavedBuilds([]);
+  };
 
   return (
     <div className="build-container">
@@ -121,6 +105,14 @@ export default function Builds() {
           <div className="armor-display">{renderSelectedArmor()}</div>
           <div className="talisman-display">{renderSelectedTalisman()}</div>
         </div>
+      </div>
+      <div className="save-button-cont">
+        <button className="save-button" onClick={setCurrentBuild}>
+          Save
+        </button>
+        <button className="save-button" onClick={wipeBuilds}>
+          Remove All
+        </button>
       </div>
     </div>
   );

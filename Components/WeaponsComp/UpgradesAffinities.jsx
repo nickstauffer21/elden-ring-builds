@@ -10,14 +10,13 @@ export default function UpgradesAffinities({
   setSelectedAffinity,
   selectedWeapon,
 }) {
-  const { weapons } = useContext(DataContext); // Use weapons instead of weaponsLevelInfo
+  const { weapons } = useContext(DataContext);
   const [filteredUpgrades, setFilteredUpgrades] = useState([]);
   const [filteredAffinities, setFilteredAffinities] = useState([]);
   const [previousWeaponName, setPreviousWeaponName] = useState("");
 
   useEffect(() => {
     if (selectedWeapon?.name && selectedWeapon.name !== previousWeaponName) {
-      // It's a truly new weapon selection, reset to defaults
       setSelectedUpgrade("+0");
       setSelectedAffinity("Standard");
       setPreviousWeaponName(selectedWeapon.name);
@@ -26,13 +25,11 @@ export default function UpgradesAffinities({
 
   useEffect(() => {
     if (selectedWeapon?.name) {
-      // Find the selected weapon in weapons
       const weaponData = weapons.find(
         (item) => item.name === selectedWeapon.name
       );
 
       if (weaponData) {
-        // Extract unique upgrades and affinities
         setFilteredUpgrades([
           ...new Set(weaponData.upgrades.map((item) => item.upgrade.trim())),
         ]);
@@ -41,12 +38,10 @@ export default function UpgradesAffinities({
           ...new Set(weaponData.upgrades.map((item) => item.affinity.trim())),
         ]);
       } else {
-        // Reset if no matching weapon data is found
         setFilteredUpgrades([]);
         setFilteredAffinities([]);
       }
     } else {
-      // Reset if no weapon is selected
       setFilteredUpgrades([]);
       setFilteredAffinities([]);
     }

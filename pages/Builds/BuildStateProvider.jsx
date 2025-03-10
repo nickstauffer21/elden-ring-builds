@@ -1,5 +1,5 @@
 import React, { useContext, createContext } from "react";
-import { DataContext } from "../../Components/WeaponsComp/DataProvider";
+import { DataContext } from "../../Data/DataProvider";
 import useLocalStorage from "../../Components/useLocalStorage";
 
 export const BuildStateContext = createContext();

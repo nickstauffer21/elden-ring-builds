@@ -8,7 +8,7 @@ import React, {
 import "./Weapons.css";
 import "../../Components/WeaponsComp/weaponsDetail.css";
 import WeaponDetails from "../../Components/WeaponsComp/WeaponDetails";
-import { DataContext } from "../../Components/WeaponsComp/DataProvider";
+import { DataContext } from "../../Data/DataProvider";
 import useLocalStorage from "../../Components/useLocalStorage";
 import SearchBar from "../../Components/Reusable/Search";
 

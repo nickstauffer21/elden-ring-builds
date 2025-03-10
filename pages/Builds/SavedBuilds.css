@@ -1,16 +1,16 @@
 .saved-builds-container {
   display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  align-items: center;
+}
+
+.saved-builds-content {
+  display: flex;
   flex-direction: column;
-}
-
-.build-item-container {
-  display: flex;
-  flex-direction: row;
-}
-
-.saved-item-comp {
-  display: flex;
-  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0 100px;
 }
 
 .saved-item img {
@@ -19,6 +19,16 @@
 
 .build-name {
   color: black;
+}
+
+.build-item-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.remove-save-btn {
+  width: 50px;
+  padding: 5px;
 }
 
 /* Submission Form */

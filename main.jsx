@@ -3,9 +3,10 @@ import { createRoot } from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./main.css";
 import Layout from "./format/Layout";
-import DataProvider from "./Components/WeaponsComp/DataProvider";
+import DataProvider from "./Data/DataProvider";
 import Builds from "./pages/Builds/Builds";
 import Weapons from "./pages/Weapons/Weapons";
+import Enemies from "./pages/Enemies/Enemies";
 import SavedBuilds from "./pages/Builds/SavedBuilds";
 import BuildStateProvider from "./pages/Builds/BuildStateProvider";
 
@@ -21,6 +22,7 @@ function Main() {
               <Route path="builds" element={<Builds />} />
               <Route path="saved-builds" element={<SavedBuilds />} />
               <Route path="weapons" element={<Weapons />} />
+              <Route path="enemies" element={<Enemies />} />
             </Route>
           </Routes>
         </BrowserRouter>

@@ -1,5 +1,5 @@
 import React, { useContext, useState, useEffect } from "react";
-import { DataContext } from "./DataProvider";
+import { DataContext } from "../../Data/DataProvider";
 import "./weaponsDetail.css";
 
 export default function UpgradesAffinities({

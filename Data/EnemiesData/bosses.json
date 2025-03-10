@@ -1,0 +1,2929 @@
+[
+  {
+    "id": "0",
+    "name": "Divine Beast Dancing Lion",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/divine_beast_dancing_lion_bosses_elden_ring_wiki_1200px.png",
+    "HP": "22,571",
+    "Locations & Drops": "{'Belurat, Tower Settlement:': ['120,000', 'Remembrance of the Dancing Lion', 'Divine Beast Head'], 'Ancient Ruins of Rauh:': ['180,000', 'Divine Beast Tornado']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Belurat, Tower Settlement",
+        "drops": [
+          "120,000",
+          "Remembrance of the Dancing Lion",
+          "Divine Beast Head"
+        ]
+      },
+      {
+        "location": "Ancient Ruins of Rauh",
+        "drops": ["180,000", "Divine Beast Tornado"]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Rellana, Twin Moon Knight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rellana_twin_moon_knight2.png",
+    "HP": "29,723",
+    "Locations & Drops": "{'Castle Ensis': ['240,000', 'Remembrance of the Twin Moon Knight']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Castle Ensis",
+        "drops": ["240,000", "Remembrance of the Twin Moon Knight"]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Commander Gaius",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/commander_gaius_bosses_elden_ring_wiki_1200px.png",
+    "HP": "33,871",
+    "Locations & Drops": "{'Scaduview': ['230,000', 'Remembrance of the Wild Boar Rider']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Scaduview",
+        "drops": ["230,000", "Remembrance of the Wild Boar Rider"]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Scadutree Avatar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/scadutree_avatar_bosses_elden_ring_wiki_1200px.png",
+    "HP": "7,560 (phase 1) 13,608 (phase 2) 13,608 (phase 3)",
+    "Locations & Drops": "{'Scadutree Base': ['260,000', 'Remembrance of the Shadow Sunflower', \"Miquella's Great Rune\"]}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Scadutree Base",
+        "drops": [
+          "260,000",
+          "Remembrance of the Shadow Sunflower",
+          "Miquella's Great Rune"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Putrescent Knight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/putrescent_knight_bosses_elden_ring_wiki_1200px.png",
+    "HP": "20,612",
+    "Locations & Drops": "{'Stone Coffin Fissure': ['220,000', 'Remembrance of Putrescence']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Stone Coffin Fissure",
+        "drops": ["220,000", "Remembrance of Putrescence"]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Midra, Lord of Frenzied Flame",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/midra_lord_of_frenzied_flame_bosses_elden_ring_wiki_1200px.png",
+    "HP": "47,171",
+    "Locations & Drops": "{\"Midra's Manse\": ['410,000', 'Remembrance of the Lord of Frenzied Flame']}",
+    "blockquote": "Enough.... I have endured more than enough...I ask you forgive me, dearest Nanaya... ",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Midra's Manse",
+        "drops": ["410,000", "Remembrance of the Lord of Frenzied Flame"]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Romina, Saint of the Bud",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/romina.png",
+    "HP": "35,798",
+    "Locations & Drops": "{'Church of the Bud': ['380,000', 'Remembrance of the Saint of the Bud']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Church of the Bud",
+        "drops": ["380,000", "Remembrance of the Saint of the Bud"]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Metyr, Mother of Fingers",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/1000000223.jpg",
+    "HP": "43,296",
+    "Locations & Drops": "{'Finger Ruins of Miyr': ['420,000', 'Remembrance of the Mother of Fingers']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Finger Ruins of Miyr",
+        "drops": ["420,000", "Remembrance of the Mother of Fingers"]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Messmer the Impaler",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/messmer_the_impaler_bosses_elden_ring_wiki_1200px.png",
+    "HP": "38,981",
+    "Locations & Drops": "{'Shadow Keep , Specimen Storehouse': ['400,000', 'Remembrance of the Impaler', \"Messmer's Kindling\"]}",
+    "blockquote": "Mother, wouldst thou truly Lordship sanction, in one so bereft of light? ",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Shadow Keep , Specimen Storehouse",
+        "drops": ["400,000", "Remembrance of the Impaler", "Messmer's Kindling"]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Base Serpent Messmer",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/messmer_p2_(1).png",
+    "HP": "TBD",
+    "Locations & Drops": "{'Shadow Keep , Specimen Storehouse': ['400,000 Runes', 'Remembrance of the Impaler', \"Messmer's Kindling\"]}",
+    "blockquote": "Wilt thou be taken in the jaws... of the abbyssal serpent, shorn of light. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Shadow Keep , Specimen Storehouse",
+        "drops": [
+          "400,000 Runes",
+          "Remembrance of the Impaler",
+          "Messmer's Kindling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Promised Consort Radahn",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/consort.png",
+    "HP": "46134",
+    "Locations & Drops": "{'Enir-Ilim': ['500,000 Runes', 'Remembrance of a God and a Lord']}",
+    "blockquote": "Now, the vow will be honoured, and my Lord brother's soul will return. ",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Enir-Ilim",
+        "drops": ["500,000 Runes", "Remembrance of a God and a Lord"]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Radahn, Consort of Miquella",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/radahn-consort-of-miquella-elden-ring-wiki-guide-min.png",
+    "HP": "46134",
+    "Locations & Drops": "{'Enir-Ilim': ['500,000 Runes', 'Remembrance of a God and a Lord']}",
+    "blockquote": "Now, the vow will be honoured, and my Lord brother's soul will return. ",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Enir-Ilim",
+        "drops": ["500,000 Runes", "Remembrance of a God and a Lord"]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Bayle The Dread",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bayle.png",
+    "HP": "41,612",
+    "Locations & Drops": "{'Jagged Peak': ['490000', 'Heart of Bayle']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Jagged Peak",
+        "drops": ["490000", "Heart of Bayle"]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Godrick the Grafted",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/godrick_the_grafted_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "6,080",
+    "Locations & Drops": "{'Stormveil Castle': ['20,000 (NG)', '5,000 (NG, Co-op)', \"Godrick's Great Rune\", 'Remembrance of the Grafted']}",
+    "blockquote": "I command thee, kneel! I am the lord of all that is golden! ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Stormveil Castle",
+        "drops": [
+          "20,000 (NG)",
+          "5,000 (NG, Co-op)",
+          "Godrick's Great Rune",
+          "Remembrance of the Grafted"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Rennala Carian Queen of the Full Moon",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rennala_queen_of_the_full_moon_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "Phase 1",
+    "Locations & Drops": "{'Raya Lucaria Academy': ['40,000 Runes (NG)', '30,000 Runes (NG, Co-op Host)', '10,000 Runes (NG, Co-op Phantom)', 'Other Drops:', 'Remembrance of the Full Moon Queen', 'Great Rune of the Unborn']}",
+    "blockquote": "Hush, little culver. I'll soon birth thee anew, a sweeting fresh and pure… ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Raya Lucaria Academy",
+        "drops": [
+          "40,000 Runes (NG)",
+          "30,000 Runes (NG, Co-op Host)",
+          "10,000 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Remembrance of the Full Moon Queen",
+          "Great Rune of the Unborn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Starscourge Radahn",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/radahn_enemies_elden_ring_wiki_600px1-min.jpg",
+    "HP": "9,572",
+    "Locations & Drops": "{'Redmane Castle': ['70,000', 'Remembrance of the Starscourge', \"Radahn's Great Rune\"]}",
+    "blockquote": "The Red Lion General wielded gravitational powers which he learned in Sellia during his younger days. All so he would never have to abandon his beloved but scrawny steed. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Redmane Castle",
+        "drops": [
+          "70,000",
+          "Remembrance of the Starscourge",
+          "Radahn's Great Rune"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Morgott The Grace-Given Veiled Monarch Omen King",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/morgott-omen-king-3-elden-ring-wiki-guide.jpg",
+    "HP": "10,399",
+    "Locations & Drops": "{'Leyndell, Royal Capital': ['120,000', 'Remembrance of the Omen King', \"Morgott's Great Rune\", 'Talisman Pouch (NG only, Margit not defeated)']}",
+    "blockquote": "Have it writ upon thy meagre grave: \"Felled by King Morgott! Last of all kings.\" ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Leyndell, Royal Capital",
+        "drops": [
+          "120,000",
+          "Remembrance of the Omen King",
+          "Morgott's Great Rune",
+          "Talisman Pouch (NG only, Margit not defeated)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Rykard, Lord of Blasphemy",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rykard_lord_of_blasphemy_bosses_elden_ring_wiki_600px1.jpg",
+    "HP": "89,613",
+    "Locations & Drops": "{'Volcano Manor': ['130.000', \"Rykard's Great Rune\", 'Remembrance of the Blasphemous']}",
+    "blockquote": "Join the Serpent King, as family... Together, we will devour the very gods! ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Volcano Manor",
+        "drops": [
+          "130.000",
+          "Rykard's Great Rune",
+          "Remembrance of the Blasphemous"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Mohg, Lord of Blood",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/mohg_the_omen_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "18,389",
+    "Locations & Drops": "{'Mohgwyn Palace': ['420,000', \"Mohg's Great Rune\", 'Remembrance of the Blood Lord']}",
+    "blockquote": "Welcome, honored guest. To the birthplace of our Dynasty! ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Mohgwyn Palace",
+        "drops": [
+          "420,000",
+          "Mohg's Great Rune",
+          "Remembrance of the Blood Lord"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Malenia, Blade of Miquella",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/malenia,-blade-of-miquella1-min.jpg",
+    "HP": "33,251",
+    "Locations & Drops": "{'Elphael, Brace of the Haligtree': [\"480,000 Malenia's Great Rune Remembrance of the Rot Goddess\"]}",
+    "blockquote": "...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Elphael, Brace of the Haligtree",
+        "drops": ["480,000 Malenia's Great Rune Remembrance of the Rot Goddess"]
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Lichdragon Fortissax",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fortissax_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "12,903",
+    "Locations & Drops": "{'Deeproot Depths': ['90,000', 'Remembrance of the Lichdragon']}",
+    "blockquote": "After Godwyn the Golden became the Prince of Death, the ancient dragon fought long and hard against the Death within its companion. Alas, victory was never achieved and its only reward was corruption. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Deeproot Depths",
+        "drops": ["90,000", "Remembrance of the Lichdragon"]
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Maliketh, The Black Blade",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/maliketh-the-black-blade-4k1-min.jpg",
+    "HP": "10,620",
+    "Locations & Drops": "{'Crumbling Farum Azula': ['220,000', 'Remembrance of the Black Blade']}",
+    "blockquote": "Cower before Maliketh, Marika’s Black Blade. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Crumbling Farum Azula",
+        "drops": ["220,000", "Remembrance of the Black Blade"]
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Astel, Naturalborn of the Void",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/astel-naturalborn-of-the-void-1-elden-ring-wiki-guide.jpg",
+    "HP": "11,170",
+    "Locations & Drops": "{'Grand Cloister': ['80,000', 'Remembrance of the Naturalborn']}",
+    "blockquote": "A malformed star born in the lightless void far away. Once destroyed an Eternal City and took away their sky. A falling star of ill omen. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Grand Cloister",
+        "drops": ["80,000", "Remembrance of the Naturalborn"]
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Regal Ancestor Spirit",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/regal-ancestor-spirit_map-bosses-enemies-elden-ring-wiki-guide-300px.jpg",
+    "HP": "6,301",
+    "Locations & Drops": "{'Nokron, Eternal City': ['24,000', 'Remembrance of the Regal Ancestor']}",
+    "blockquote": "Ancestral spirits exist as a phenomenon beyond the purview of the Erdtree. Life sprouts from death, as it does from birth. Such is the way of the living. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Nokron, Eternal City",
+        "drops": ["24,000", "Remembrance of the Regal Ancestor"]
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Radagon of the Golden Order",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/radagon_of_the_golden_order_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "≈ 13,339 (GOD)",
+    "Locations & Drops": "{'Stone Platform': ['Elden Throne :', 'N/A']}",
+    "blockquote": "As the husband of Rennala of Caria, the red-haired Radagon studied sorcery, and as the husband of Queen Marika, he studied incantations. Thus did the hero aspire to be complete. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Stone Platform",
+        "drops": ["Elden Throne :", "N/A"]
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Godfrey, First Elden Lord",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/godfrey_first_elden_lord_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "21,903",
+    "Locations & Drops": "{'Leyndell, Ashen Capital': ['300,000', 'Remembrance of Hoarah Loux']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Leyndell, Ashen Capital",
+        "drops": ["300,000", "Remembrance of Hoarah Loux"]
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Fire Giant",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_giant_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "42,363",
+    "Locations & Drops": "{'Flame Peak': ['180,000', 'Remembrance of the Fire Giant']}",
+    "blockquote": "The Fire Giant is a survivor of the War against the Giants. Upon realizing the flames of their forge would never die, Queen Marika marked him with a curse. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Flame Peak",
+        "drops": ["180,000", "Remembrance of the Fire Giant"]
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Dragonlord Placidusax",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonlord_placidusax_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "26,651",
+    "Locations & Drops": "{'Crumbling Farum Azula': ['280,000', 'Remembrance of the Dragonlord']}",
+    "blockquote": "The Dragonlord whose seat lies at the heart of the storm beyond time is said to have been Elden Lord in the age before the Erdtree. Once his god was fled, the lord continued to await its return. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Crumbling Farum Azula",
+        "drops": ["280,000", "Remembrance of the Dragonlord"]
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Ancient Dragon Senessax",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/senessax.png",
+    "HP": "45,551",
+    "Locations & Drops": "{'Jagged Peak': ['200,000', 'Ancient Dragon Smithing Stone', 'Somber Ancient Dragon Smithing Stone']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Jagged Peak",
+        "drops": [
+          "200,000",
+          "Ancient Dragon Smithing Stone",
+          "Somber Ancient Dragon Smithing Stone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Ancient Dragon-Man",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon-weeb.png",
+    "HP": "19,097",
+    "Locations & Drops": "{\"Dragon's Pit\": ['130,000', \"Dragon-Hunter's Great Katana\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Dragon's Pit",
+        "drops": ["130,000", "Dragon-Hunter's Great Katana"]
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Chief Bloodfiend",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/chief-bloodfiend-elden-ring-wiki-600px.jpg",
+    "HP": "10,974",
+    "Locations & Drops": "{'Rivermouth Cave': ['80,000', \"Bloodfiend Hexer's Ashes\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Rivermouth Cave",
+        "drops": ["80,000", "Bloodfiend Hexer's Ashes"]
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Dancer of Ranah",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dancer.png",
+    "HP": "14,046",
+    "Locations & Drops": "{'Southern Nameless Mausoleum': ['80,000', 'Dancing Blade of Ranah', \"Dancer's Set\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Southern Nameless Mausoleum",
+        "drops": ["80,000", "Dancing Blade of Ranah", "Dancer's Set"]
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Dryleaf Dane",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dryleaf.png",
+    "HP": "12,249",
+    "Locations & Drops": "{'Moorth Ruins': ['0', \"Dane's Hat\", 'Dryleaf Arts']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Moorth Ruins",
+        "drops": ["0", "Dane's Hat", "Dryleaf Arts"]
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Golden Hippopotamus",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hippo.png",
+    "HP": "33,866",
+    "Locations & Drops": "{'Shadow Keep': ['150,000', 'Aspects of the Crucible: Thorns', 'Scadutree Fragment x2'], \"Charo's Hidden Grave\": ['9,576', 'Scadutree Fragment'], \"Recluses' River\": ['11,270 each', 'Scadutree Fragment each'], 'Ancient Ruins of Rauh': ['11,960', 'Scadutree Fragment']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Shadow Keep",
+        "drops": [
+          "150,000",
+          "Aspects of the Crucible: Thorns",
+          "Scadutree Fragment x2"
+        ]
+      },
+      {
+        "location": "Charo's Hidden Grave",
+        "drops": ["9,576", "Scadutree Fragment"]
+      },
+      {
+        "location": "Recluses' River",
+        "drops": ["11,270 each", "Scadutree Fragment each"]
+      },
+      {
+        "location": "Ancient Ruins of Rauh",
+        "drops": ["11,960", "Scadutree Fragment"]
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Jagged Peak Drake",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/jagged-peak-drake-1-elden-ring-wiki-600px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Jagged Peak Foothills': ['90,000', 'Dragon Heart', 'Dragonscale Flesh'], '<a class=\"wiki_link\" href=\"/Jagged+Peak\" title=\"Elden Ring Jagged Peak\">Jagged Peak</a>:': ['120,000', 'Dragon Heart', 'Dragonscale Flesh']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Jagged Peak Foothills",
+        "drops": ["90,000", "Dragon Heart", "Dragonscale Flesh"]
+      },
+      {
+        "location": "<a class=\"wiki_link\" href=\"/Jagged+Peak\" title=\"Elden Ring Jagged Peak\">Jagged Peak</a>",
+        "drops": ["120,000", "Dragon Heart", "Dragonscale Flesh"]
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Jori, Elder Inquisitor",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/jori.png",
+    "HP": "30,506",
+    "Locations & Drops": "{'Abyssal Woods': ['260,000', 'Barbed Staff-Spear']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Abyssal Woods",
+        "drops": ["260,000", "Barbed Staff-Spear"]
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Cemetery Shade",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/cemetery_shade_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Tombsward Catacombs:': ['2,200', 'Lhutel the Headless'], 'Black Knife Catacombs:': ['3,500', 'Twinsage Sorcerer Ashes'], 'Caelid Catacombs:': ['6,800', 'Kindred of Rot Ashes']}",
+    "blockquote": "Insect-ridden grave keepers. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Tombsward Catacombs",
+        "drops": ["2,200", "Lhutel the Headless"]
+      },
+      {
+        "location": "Black Knife Catacombs",
+        "drops": ["3,500", "Twinsage Sorcerer Ashes"]
+      },
+      {
+        "location": "Caelid Catacombs",
+        "drops": ["6,800", "Kindred of Rot Ashes"]
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Ancestor Spirit",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ancestor_spirit1-min.jpg",
+    "HP": "4,393",
+    "Locations & Drops": "{'Siofra River': ['13,000', 'Ancestral Follower Ashes']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Siofra River",
+        "drops": ["13,000", "Ancestral Follower Ashes"]
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Dragonkin Soldier",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonkin-soldier-1-elden-ring-wiki-guide.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Siofra River:': ['16,000', 'Dragon Halberd'], 'Lake of Rot:': ['58,000', 'Dragonscale Blade']}",
+    "blockquote": "Alas, the Dragonkin Soldiers never attained immortality, and perished as decrepit, pale imitations of their skyborn kin. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Siofra River",
+        "drops": ["16,000", "Dragon Halberd"]
+      },
+      {
+        "location": "Lake of Rot",
+        "drops": ["58,000", "Dragonscale Blade"]
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Margit, the Fell Omen",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/margit-1-boss-elden-ring-wiki.jpg",
+    "HP": "4,174",
+    "Locations & Drops": "{'Stormveil Castle:': ['12,000', 'Talisman Pouch (NG only, Morgott not defeated)'], 'Capital Outskirts': ['16,800', 'Viridian Amber Medallion +1']}",
+    "blockquote": "Someone must extinguish thy flame. Let it be Margit the Fell! ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Stormveil Castle",
+        "drops": ["12,000", "Talisman Pouch (NG only, Morgott not defeated)"]
+      },
+      {
+        "location": "Capital Outskirts",
+        "drops": ["16,800", "Viridian Amber Medallion +1"]
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Flying Dragon Agheel",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/flying_dragon_agheel_2_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "3,200",
+    "Locations & Drops": "{'Dragon-Burnt Ruins': ['5,000, Dragon Heart']}",
+    "blockquote": "The dead gazed at the skies over the lakes of Limgrave, praying that the dragons' flames would burn them to ash. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Dragon-Burnt Ruins",
+        "drops": ["5,000, Dragon Heart"]
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Dragonkin Soldier of Nokstella",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonkin_nokstella_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "4,372",
+    "Locations & Drops": "{'Ainsel River': ['12,000', 'Frozen Lightning Spear']}",
+    "blockquote": "The Dragonkin were born in the Eternal City, where they knew no true sky, nor true lightning. Instead, ice lightning was their weapon. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Ainsel River",
+        "drops": ["12,000", "Frozen Lightning Spear"]
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Leonine Misbegotten",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/leonine_misbegotten_bosses_elden_ring_wiki_600px1.jpg",
+    "HP": "2,198",
+    "Locations & Drops": "{'Castle Morne': ['Runes 3,800 (NG)', 'Runes 950 (NG, Co-op)', 'Grafted Blade Greatsword']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Castle Morne",
+        "drops": [
+          "Runes 3,800 (NG)",
+          "Runes 950 (NG, Co-op)",
+          "Grafted Blade Greatsword"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Red Wolf of Radagon",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/red-wolf-of-radagon-2-elden-ring-wiki-guide.jpg",
+    "HP": "2,204",
+    "Locations & Drops": "{'Raya Lucaria Academy': ['14,000 Runes (NG)', '3,500 Runes (NG, Co-op)', 'Runes 63,100 (NG +3)', 'Memory Stone']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Raya Lucaria Academy",
+        "drops": [
+          "14,000 Runes (NG)",
+          "3,500 Runes (NG, Co-op)",
+          "Runes 63,100 (NG +3)",
+          "Memory Stone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Glintstone Dragon Adula",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone_dragon_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Three Sisters:': ['No drops'], 'Cathedral of Manus Celes:': ['120,000', \"Adula's Moonblade\", 'Dragon Heart x3']}",
+    "blockquote": "Adula, a devourer of sorcerers, was bested by Ranni and subsequently swore a knightly oath to her Dark Moon. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Three Sisters",
+        "drops": ["No drops"]
+      },
+      {
+        "location": "Cathedral of Manus Celes",
+        "drops": ["120,000", "Adula's Moonblade", "Dragon Heart x3"]
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Borealis, the Freezing Fog",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/borealis_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "11,268",
+    "Locations & Drops": "{'Mountaintops of the Giants': ['100,000', 'Dragon Heart']}",
+    "blockquote": "The ice dragons were once lords of the mountaintops long ago, until they were defeated by the Fire Giants and chased from the peak. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Mountaintops of the Giants",
+        "drops": ["100,000", "Dragon Heart"]
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Decaying Ekzykes",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/decaying_ekzykes_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "23,731",
+    "Locations & Drops": "{'Caelid': ['38,000, Dragon Heart']}",
+    "blockquote": "Ekzykes, Dragon Communion Revenger, did not forget his hatred even as he succumbed to the scarlet rot. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Caelid",
+        "drops": ["38,000, Dragon Heart"]
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Valiant Gargoyle",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/valiant_gargoyle1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Siofra Aqueduct:': ['30,000', \"Gargoyle's Greatsword\", \"Gargoyle's Twinblade\"], 'Capital Outskirts:': ['2,835', 'Gargoyle’s Great Axe'], 'Leyndell, Royal Capital:': ['3,332', \"Gargoyle's Halberd\"], 'Leyndell, Ashen Capital:': ['8,608']}",
+    "blockquote": "The missing parts have been mended with corpse wax; a patchwork of champions. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Siofra Aqueduct",
+        "drops": ["30,000", "Gargoyle's Greatsword", "Gargoyle's Twinblade"]
+      },
+      {
+        "location": "Capital Outskirts",
+        "drops": ["2,835", "Gargoyle’s Great Axe"]
+      },
+      {
+        "location": "Leyndell, Royal Capital",
+        "drops": ["3,332", "Gargoyle's Halberd"]
+      },
+      {
+        "location": "Leyndell, Ashen Capital",
+        "drops": ["8,608"]
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Valiant Gargoyle",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/valiant_gargoyle1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Siofra Aqueduct:': ['30,000', \"Gargoyle's Greatsword\", \"Gargoyle's Twinblade\"], 'Capital Outskirts:': ['2,835', 'Gargoyle’s Great Axe'], 'Leyndell, Royal Capital:': ['3,332', \"Gargoyle's Halberd\"], 'Leyndell, Ashen Capital:': ['8,608']}",
+    "blockquote": "The missing parts have been mended with corpse wax; a patchwork of champions. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Siofra Aqueduct",
+        "drops": ["30,000", "Gargoyle's Greatsword", "Gargoyle's Twinblade"]
+      },
+      {
+        "location": "Capital Outskirts",
+        "drops": ["2,835", "Gargoyle’s Great Axe"]
+      },
+      {
+        "location": "Leyndell, Royal Capital",
+        "drops": ["3,332", "Gargoyle's Halberd"]
+      },
+      {
+        "location": "Leyndell, Ashen Capital",
+        "drops": ["8,608"]
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Godskin Apostle and Godskin Noble",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_duo_spirit_elden_ring_wiki_guide_300px.jpg",
+    "HP": "22,581 - Combined (Field Boss)",
+    "Locations & Drops": "{'Spiritcaller Cave , Mountaintops of the Giants': ['Runes 70,000 (NG)', 'Runes 52,500 (NG, Co-op Host)', 'Runes 17,500 (NG, Co-op Phantom)', 'Godskin Swaddling Cloth x1', 'Black Flame Ritual x1']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Spiritcaller Cave , Mountaintops of the Giants",
+        "drops": [
+          "Runes 70,000 (NG)",
+          "Runes 52,500 (NG, Co-op Host)",
+          "Runes 17,500 (NG, Co-op Phantom)",
+          "Godskin Swaddling Cloth x1",
+          "Black Flame Ritual x1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Godskin Duo",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_duo_elden_ring_wiki_guide_300px.jpg",
+    "HP": "26,350",
+    "Locations & Drops": "{'Crumbling Farum Azula': ['170,000', \"Smithing-Stone Miner's Bell Bearing [4] (NG only)\", 'Ash of War: Black Flame Tornado']}",
+    "blockquote": "The black flame could once slay gods. But when Maliketh sealed Destined Death, the true power of the black flame was lost.  ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Crumbling Farum Azula",
+        "drops": [
+          "170,000",
+          "Smithing-Stone Miner's Bell Bearing [4] (NG only)",
+          "Ash of War: Black Flame Tornado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Blackgaol Knight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/blackight-gaol-boss-1-elden-ring-wiki-guide.jpg",
+    "HP": "14,129",
+    "Locations & Drops": "{'Western Nameless Mausoleum': ['70,000', 'Greatsword of Solitude', 'Solitude Set']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Western Nameless Mausoleum",
+        "drops": ["70,000", "Greatsword of Solitude", "Solitude Set"]
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Black Knight Garrew",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/garrew.png",
+    "HP": "9,792",
+    "Locations & Drops": "{'Fog Rift Fort': ['80,000', 'Black Steel Greatshield']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Fog Rift Fort",
+        "drops": ["80,000", "Black Steel Greatshield"]
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Black Knight Edredd",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/edreed.png",
+    "HP": "9,792",
+    "Locations & Drops": "{'Fort of Reprimand': ['80,000 (400,000 with Golden Eyes)', 'Ash of War: Aspects of the Crucible: Wings']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Fort of Reprimand",
+        "drops": [
+          "80,000 (400,000 with Golden Eyes)",
+          "Ash of War: Aspects of the Crucible: Wings"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Count Ymir, Mother of Fingers",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/count-ymir-mother-of-fingers-boss-elden-ring-wiki-guide.jpg",
+    "HP": "11,147",
+    "Locations & Drops": "{'Cathedral of Manus Metyr': ['210,000', \"Ymir's Bell Bearing\", 'Maternal Staff', 'High Priest Set']}",
+    "blockquote": "My Shining Star. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Cathedral of Manus Metyr",
+        "drops": [
+          "210,000",
+          "Ymir's Bell Bearing",
+          "Maternal Staff",
+          "High Priest Set"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Curseblade Labirith",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/curseblade-labirith-elden-ring-wiki-600px.jpg",
+    "HP": "8,426",
+    "Locations & Drops": "{'Bonny Gaol': ['100,000', 'Curseblade Meera']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Bonny Gaol",
+        "drops": ["100,000", "Curseblade Meera"]
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Death Knight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/death-knight.png",
+    "HP": "",
+    "Locations & Drops": "{'Fog Rift Catacombs': ['110,000 Runes', \"Death Knight's Twin Axes\", 'Crimson Amber Medallion +3'], 'Scorpion River Catacombs:': ['130,000 Runes', \"Death Knight's Longhaft Axe\", 'Cerulean Amber Medallion +3']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Fog Rift Catacombs",
+        "drops": [
+          "110,000 Runes",
+          "Death Knight's Twin Axes",
+          "Crimson Amber Medallion +3"
+        ]
+      },
+      {
+        "location": "Scorpion River Catacombs",
+        "drops": [
+          "130,000 Runes",
+          "Death Knight's Longhaft Axe",
+          "Cerulean Amber Medallion +3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Death Rite Bird",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/death_rite_bird_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Academy Gate Town:': ['7,800', 'Ancient Death Rancor'], 'Caelid': ['15,000', \"Death's Poker\"], 'Mountaintops of the Giants:': ['77,000', 'Death Ritual Spear'], 'Apostate Derelict:': ['220,000', 'Explosive Ghostflame'], \"Charo's Hidden Grave\": ['230,000', 'Ash of War: Ghostflame Call']}",
+    "blockquote": "In the time when there was no Erdtree, death was burned in ghostflame. Deathbirds were the keepers of that fire. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Academy Gate Town",
+        "drops": ["7,800", "Ancient Death Rancor"]
+      },
+      {
+        "location": "Caelid",
+        "drops": ["15,000", "Death's Poker"]
+      },
+      {
+        "location": "Mountaintops of the Giants",
+        "drops": ["77,000", "Death Ritual Spear"]
+      },
+      {
+        "location": "Apostate Derelict",
+        "drops": ["220,000", "Explosive Ghostflame"]
+      },
+      {
+        "location": "Charo's Hidden Grave",
+        "drops": ["230,000", "Ash of War: Ghostflame Call"]
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Demi-Human Swordmaster Onze",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/demi-human_swordmaster_onze.png",
+    "HP": "7,441",
+    "Locations & Drops": "{'Belurat Gaol': ['80,000 Runes', 'Demi-Human Swordsman Yosh']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Belurat Gaol",
+        "drops": ["80,000 Runes", "Demi-Human Swordsman Yosh"]
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Demi-Human Queen Marigga",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/demi-queen.png",
+    "HP": "9,793",
+    "Locations & Drops": "{'Cerulean Coast': ['100,000', 'Star-Lined Sword']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Cerulean Coast",
+        "drops": ["100,000", "Star-Lined Sword"]
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Fallingstar Beast",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fallingstar_beast_altus_plateau_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Sellia Crystal Tunnel': ['7,600', \"Somberstone Miner's Bell Bearing (1)\", 'Smithing Stone (7) x5', 'Somber Smithing Stone (6)', 'Gravity Stone Chunk x4'], 'Altus Plateau:': ['11,000', 'Somber Smithing Stone (5)', 'Smithing Stone (6) x5', 'Gravity Stone Fan', 'Gravity Stone Chunk'], 'Finger Ruins of Dheo:': ['170,000', 'Gravitational Missile']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Sellia Crystal Tunnel",
+        "drops": [
+          "7,600",
+          "Somberstone Miner's Bell Bearing (1)",
+          "Smithing Stone (7) x5",
+          "Somber Smithing Stone (6)",
+          "Gravity Stone Chunk x4"
+        ]
+      },
+      {
+        "location": "Altus Plateau",
+        "drops": [
+          "11,000",
+          "Somber Smithing Stone (5)",
+          "Smithing Stone (6) x5",
+          "Gravity Stone Fan",
+          "Gravity Stone Chunk"
+        ]
+      },
+      {
+        "location": "Finger Ruins of Dheo",
+        "drops": ["170,000", "Gravitational Missile"]
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Lamenter",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lamenter.png",
+    "HP": "12,249",
+    "Locations & Drops": "{\"Lamenter's Gaol\": ['160,000', \"Lamenter's Mask\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Lamenter's Gaol",
+        "drops": ["160,000", "Lamenter's Mask"]
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Ralva the Great Red Bear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ralva.png",
+    "HP": "29,606",
+    "Locations & Drops": "{'Scadu Altus': ['180,000', 'Pelt of Ralva']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Scadu Altus",
+        "drops": ["180,000", "Pelt of Ralva"]
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Rakshasa",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rakshasa.png",
+    "HP": "20,235",
+    "Locations & Drops": "{'Eastern Nameless Mausoleum': ['90,000', \"Rakshasa's Great Katana\", \"Rakshasa's Set\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Eastern Nameless Mausoleum",
+        "drops": ["90,000", "Rakshasa's Great Katana", "Rakshasa's Set"]
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Red Bear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/mr-teddy.png",
+    "HP": "16,365",
+    "Locations & Drops": "{'Northern Nameless Mausoleum': ['80,000', \"Red Bear's Claw\", 'Iron Rivet Set']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Northern Nameless Mausoleum",
+        "drops": ["80,000", "Red Bear's Claw", "Iron Rivet Set"]
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Rugalea the Great Red Bear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rugalea-the-great-red-bear-boss-elden-ring-wiki-guide.jpg",
+    "HP": "30,535",
+    "Locations & Drops": "{'Rauh Base': ['210,000', 'Roar of Rugalea']}",
+    "blockquote": "",
+    "dlc": "1",
+    "LocationsAndDrops": [
+      {
+        "location": "Rauh Base",
+        "drops": ["210,000", "Roar of Rugalea"]
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Tree Sentinel",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/tree-sentinel-1-small1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Limgrave': ['3,200', 'Golden Halberd'], 'Altus Plateau:': ['20,000', 'Erdtree Greatshield', \"Hero's Rune [1]\"], 'Hinterland': ['120,000', 'Blessing of Marika each']}",
+    "blockquote": "The living rampart of the Erdtree, the Tree Sentinels are the standard to which all defenders of the Erdtree aspire. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Limgrave",
+        "drops": ["3,200", "Golden Halberd"]
+      },
+      {
+        "location": "Altus Plateau",
+        "drops": ["20,000", "Erdtree Greatshield", "Hero's Rune [1]"]
+      },
+      {
+        "location": "Hinterland",
+        "drops": ["120,000", "Blessing of Marika each"]
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Mad Pumpkin Head",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/mad_pumpkin_head_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{None: ['120,000', 'Blessing of Marika each']}",
+    "blockquote": "Though he has stifled his panic within the dark confines of his helmet, he rampages as if driven mad when agitated by bloodshed or the humming of insects. This mad soldier is all that is left of a broken gladiator. ",
+    "dlc": "0",
+    "LocationsAndDrops": []
+  },
+  {
+    "id": "68",
+    "name": "Erdtree Burial Watchdog",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/burial_watchdog_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{}",
+    "blockquote": "The Watchdogs, battered and broken over their lengthy tenure, rule the catacombs and are even said to command the imps. ",
+    "dlc": "0",
+    "LocationsAndDrops": []
+  },
+  {
+    "id": "69",
+    "name": "Stonedigger Troll",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/stonedigger_troll_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'<a class=\"wiki_link\" href=\"/Limgrave+Tunnels\" title=\"Elden Ring Limgrave Tunnels\">Limgrave Tunnels</a>:': ['1,800 Runes (NG)', '450 Runes (NG, Co-op)'], '': ['Roar Medallion'], 'Old Altus Tunnel:': ['9,600 (NG)', '7,200 (NG, Co-op Host)', '2,400 (NG, Co-op Phantom)', 'Other Drops:', 'Great Club']}",
+    "blockquote": "Trolls are descended from the giants, and their hammers were supposedly once used as ceremonial smithing tools. In the distant past, smithing was considered divine. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "<a class=\"wiki_link\" href=\"/Limgrave+Tunnels\" title=\"Elden Ring Limgrave Tunnels\">Limgrave Tunnels</a>",
+        "drops": ["1,800 Runes (NG)", "450 Runes (NG, Co-op)"]
+      },
+      {
+        "location": "",
+        "drops": ["Roar Medallion"]
+      },
+      {
+        "location": "Old Altus Tunnel",
+        "drops": [
+          "9,600 (NG)",
+          "7,200 (NG, Co-op Host)",
+          "2,400 (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Great Club"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Grafted Scion",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/grafted_scion_enemies_elden_ring_wiki_600px1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Chapel of Anticipation': ['3,200', 'Ornamental Straight Sword', 'Golden Beast Crest Shield'], \"Fringefolk Hero's Grave\": ['Stormveil Castle : 1,176'], 'Liurnia of the Lakes': ['1,283', 'Larval Tear'], 'Mt Gelmir': []}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Chapel of Anticipation",
+        "drops": [
+          "3,200",
+          "Ornamental Straight Sword",
+          "Golden Beast Crest Shield"
+        ]
+      },
+      {
+        "location": "Fringefolk Hero's Grave",
+        "drops": ["Stormveil Castle : 1,176"]
+      },
+      {
+        "location": "Liurnia of the Lakes",
+        "drops": ["1,283", "Larval Tear"]
+      },
+      {
+        "location": "Mt Gelmir",
+        "drops": []
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Rick, Soldier Of God",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/soldier-of-godrick-boss-elden-rings.jpg",
+    "HP": "384",
+    "Locations & Drops": "{'Stranded Graveyard': ['400']}",
+    "blockquote": "That depraved lot are obsessed with sacrificing Tarnished like you for the sake of \"grafting\". ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Stranded Graveyard",
+        "drops": ["400"]
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Beastman of Farum Azula",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/beastman-of-farum-azula1.jpg",
+    "HP": "",
+    "Locations & Drops": "{}",
+    "blockquote": "Beastmen from the doomed Farum Azula, the slowly crumbling ruins in the skies. These ruins are said to be the remains of a giant mausoleum enshrining an ancient dragon, guarded by chosen beastmen who wield weapons clad in lightning. ",
+    "dlc": "0",
+    "LocationsAndDrops": []
+  },
+  {
+    "id": "73",
+    "name": "Demi-Human Chiefs",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/demihuman-chief-boss-enemy-elden-ring-wiki-guide.jpg",
+    "HP": "1,218",
+    "Locations & Drops": "{'Coastal Cave': ['1,200', 'Tailoring Tools', 'Sewing Needle']}",
+    "blockquote": "They'll rush in and beat you to a pulp. You'll end up just like me. - Boc the Seamster ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Coastal Cave",
+        "drops": ["1,200", "Tailoring Tools", "Sewing Needle"]
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Runebear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/runebear_bosses_elden_ring_wiki_guide1.jpg",
+    "HP": "3,311",
+    "Locations & Drops": "{'Earthbore Cave': ['Runes 2,600 (NG)', 'Runes 650 (NG, Co-op)', 'Spelldrake Talisman']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Earthbore Cave",
+        "drops": [
+          "Runes 2,600 (NG)",
+          "Runes 650 (NG, Co-op)",
+          "Spelldrake Talisman"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Crucible Knights",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible-knight-stormhill-3-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{None: ['Stormhill Evergaol :', '2,100 (NG)', '10,500 (NG+1)', 'Aspects of the Crucible: Tail Stormveil Castle :', '1,613', 'Aspects of the Crucible: Horns', 'Siofra River :', '3,080 Siofra Aqueduct :', '3,080 each', 'Sword: Crucible Hornshield', 'Spear: Somber Smithing Stone [6] Leyndell, Royal Capital :', '3,840 each Crumbling Farum Azula :', '7,360 each']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": []
+  },
+  {
+    "id": "76",
+    "name": "Ancient Hero of Zamor",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ancient_hero_of_zamor_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Weeping Evergaol': ['5,400', 'Other Drops', \"Radagon's Scarseal\"], \"Sainted Hero's Grave:\": ['24,000 Runes (NG)', '15,000 Runes (NG, Co-op Host)', '5,000 Runes (NG, Co-op Phantom)', 'Other Drops:', 'Ancient Dragon Knight Kristoff Ashes'], \"Giant-Conquering Hero's Grave:\": ['83,000 Runes (NG)', '62,250 Runes (NG, Co-op Host)', '20,750 Runes (NG, Co-op Phantom)', 'Other Drops:', 'Zamor Curved Sword', 'Zamor Mask', 'Zamor Armor', 'Zamor Bracelets', 'Zamor Legwraps']}",
+    "blockquote": "These long-lived warriors, clad in biting, freezing winds, are said to have been the mortal enemies of the Fire Giants since time immemorial. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Weeping Evergaol",
+        "drops": ["5,400", "Other Drops", "Radagon's Scarseal"]
+      },
+      {
+        "location": "Sainted Hero's Grave",
+        "drops": [
+          "24,000 Runes (NG)",
+          "15,000 Runes (NG, Co-op Host)",
+          "5,000 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Ancient Dragon Knight Kristoff Ashes"
+        ]
+      },
+      {
+        "location": "Giant-Conquering Hero's Grave",
+        "drops": [
+          "83,000 Runes (NG)",
+          "62,250 Runes (NG, Co-op Host)",
+          "20,750 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Zamor Curved Sword",
+          "Zamor Mask",
+          "Zamor Armor",
+          "Zamor Bracelets",
+          "Zamor Legwraps"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Tree Sentinel",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/tree-sentinel-1-small1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Limgrave': ['3,200', 'Golden Halberd'], 'Altus Plateau:': ['20,000', 'Erdtree Greatshield', \"Hero's Rune [1]\"], 'Hinterland': ['120,000', 'Blessing of Marika each']}",
+    "blockquote": "The living rampart of the Erdtree, the Tree Sentinels are the standard to which all defenders of the Erdtree aspire. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Limgrave",
+        "drops": ["3,200", "Golden Halberd"]
+      },
+      {
+        "location": "Altus Plateau",
+        "drops": ["20,000", "Erdtree Greatshield", "Hero's Rune [1]"]
+      },
+      {
+        "location": "Hinterland",
+        "drops": ["120,000", "Blessing of Marika each"]
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Draconic Tree Sentinel",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/draconic-tree-sentinel-2-elden-ring-wiki-guide.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Capital Outskirts:': ['50,000', 'Dragon Greatclaw', 'Dragonclaw Shield'], '<a class=\"wiki_link\" href=\"/Crumbling+Farum+Azula\" title=\"Elden Ring Crumbling Farum Azula\">Crumbling Farum Azula</a>:': ['28,080', 'Malformed Dragon Set']}",
+    "blockquote": "After the great ancient dragon Gransax attacked, the sentinels had an epiphany. The only way to truly protect the Erdtree was to become dragons themselves. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Capital Outskirts",
+        "drops": ["50,000", "Dragon Greatclaw", "Dragonclaw Shield"]
+      },
+      {
+        "location": "<a class=\"wiki_link\" href=\"/Crumbling+Farum+Azula\" title=\"Elden Ring Crumbling Farum Azula\">Crumbling Farum Azula</a>",
+        "drops": ["28,080", "Malformed Dragon Set"]
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Black Knife Assassin",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/black-knife-assassin-limgrave-2-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{None: ['28,080', 'Malformed Dragon Set']}",
+    "blockquote": "The assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself. ",
+    "dlc": "0",
+    "LocationsAndDrops": []
+  },
+  {
+    "id": "80",
+    "name": "Crystalian",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crystalians_bosses_elden_ring_wiki_guide_300x.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Raya Lucaria Crystal Tunnel:': ['3,000 Runes (NG)', '2,350 Runes (NG, Co-op Host)', '750 Runes (NG, Co-op Phantom)', 'Other Drops:', \"Smithing-Stone Miner's Bell Bearing (1)\"], 'Academy Crystal Cave:': ['3,300 Runes (NG)', '2,465 Runes (NG, Co-op Host)', '835 Runes (NG, Co-op Phantom)', 'Other Drops:', 'Crystal Release'], 'Altus Tunnel:': ['9,000 Runes (NG)', '6750 Runes (NG, Co-op Host)', '2,250 Runes (NG, Co-op Phantom)', 'Other Drops:', \"Somberstone Miner's Bell Bearing (2)\"]}",
+    "blockquote": "The Crystalians are inorganic beings, yet they live. They cleave close to the ideals of the primeval current, and as such, they are revered guests of the sorcerers.. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Raya Lucaria Crystal Tunnel",
+        "drops": [
+          "3,000 Runes (NG)",
+          "2,350 Runes (NG, Co-op Host)",
+          "750 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Smithing-Stone Miner's Bell Bearing (1)"
+        ]
+      },
+      {
+        "location": "Academy Crystal Cave",
+        "drops": [
+          "3,300 Runes (NG)",
+          "2,465 Runes (NG, Co-op Host)",
+          "835 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Crystal Release"
+        ]
+      },
+      {
+        "location": "Altus Tunnel",
+        "drops": [
+          "9,000 Runes (NG)",
+          "6750 Runes (NG, Co-op Host)",
+          "2,250 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Somberstone Miner's Bell Bearing (2)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Night's Cavalry",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/nights_cavalry_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{None: ['Limgrave :', 'Runes 2,400 (NG)', 'Other Drops:', 'Ash of War: Repeating Thrust', 'Weeping Peninsula :', '3,400 (NG)', 'Other Drops:', 'Ash of War: Barricade Shield', 'Nightrider Flail', 'Liurnia South :', '5,600 Runes', 'Other Drops:', 'Ash of War: Ice Spear', 'Liurnia North :', '5,600', 'Other Drops:', 'Ash of War: Giant Hunt', 'Nightrider Glaive Caelid :', '8,500', 'Other Drops:', 'Ash of War: Poison Moth Flight Altus Plateau :', '10,000', 'Other Drops:', 'Ash of War: Shared Order Forbidden Lands :', '36,000', 'Other Drops:', \"Ash of War: Phantom Slash Greyoll's Dragonbarrow :\", '42,000', 'Other Drops:', \"Ash of War: Bloodhound's Step Consecrated Snowfield :\", '84,000', 'Other Drops:', \"Night's Cavalry Set\", 'Ancient Dragon Smithing Stone']}",
+    "blockquote": "The Night's Cavalry, who now wander the dim roads at night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions. ",
+    "dlc": "0",
+    "LocationsAndDrops": []
+  },
+  {
+    "id": "82",
+    "name": "Bell Bearing Hunter",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bell-bearing-hunter-elden-ring.jpg",
+    "HP": "",
+    "Locations & Drops": "{\"Warmaster's Shack:\": ['2,700 Runes (NG)', '675 Runes (NG, Co-op)', \"Bone Peddler's Bell Bearing\"], 'Church of Vows:': ['6,000 Runes', '(NG)', '4,500 Runes (NG, Co-op Host)', '1,500 Runes (NG, Co-op Phantom)', \"Meat Peddler's Bell Bearing\"], \"Hermit Merchant's Shack:\": ['20,000 Runes (NG)', '15,000 Runes (NG, Co-op Host)', '5,000 Runes (NG, Co-op Phantom)', \"Medicine Peddler's Bell Bearing\"], \"Isolated Merchant's Shack (Dragonbarrow):\": ['50,000', \"Gravity Stone Peddler's Bell Bearing\"]}",
+    "blockquote": "Elemer murdered numerous instructors and merchants, and was known as the Bell Bearing Hunter. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Warmaster's Shack",
+        "drops": [
+          "2,700 Runes (NG)",
+          "675 Runes (NG, Co-op)",
+          "Bone Peddler's Bell Bearing"
+        ]
+      },
+      {
+        "location": "Church of Vows",
+        "drops": [
+          "6,000 Runes",
+          "(NG)",
+          "4,500 Runes (NG, Co-op Host)",
+          "1,500 Runes (NG, Co-op Phantom)",
+          "Meat Peddler's Bell Bearing"
+        ]
+      },
+      {
+        "location": "Hermit Merchant's Shack",
+        "drops": [
+          "20,000 Runes (NG)",
+          "15,000 Runes (NG, Co-op Host)",
+          "5,000 Runes (NG, Co-op Phantom)",
+          "Medicine Peddler's Bell Bearing"
+        ]
+      },
+      {
+        "location": "Isolated Merchant's Shack (Dragonbarrow)",
+        "drops": ["50,000", "Gravity Stone Peddler's Bell Bearing"]
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Crucible Knight Ordovis",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_ordovis_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "5,460 each",
+    "Locations & Drops": "{\"Auriza Hero's Grave\": ['28,000', \"Ordovis's Greatsword\", 'Crucible Axe Helm', 'Crucible Axe Armor', 'Crucible Gauntlets', 'Crucible Greaves']}",
+    "blockquote": "Ordovis, one of the two honored as foremost among the Crucible Knights. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Auriza Hero's Grave",
+        "drops": [
+          "28,000",
+          "Ordovis's Greatsword",
+          "Crucible Axe Helm",
+          "Crucible Axe Armor",
+          "Crucible Gauntlets",
+          "Crucible Greaves"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Fell Twins",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fell_twins_omen_bosses_elden_ring_wiki_600px1-min.jpg",
+    "HP": "7,871 (Cleaver) 6,539 (Axe)",
+    "Locations & Drops": "{'Capital Outskirts': ['29,000', 'Omenkiller Rollo']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Capital Outskirts",
+        "drops": ["29,000", "Omenkiller Rollo"]
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Black Blade Kindred",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/black_blade_kindred_bosses_elden_ring_wiki_guide_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Bestial Sanctum:': ['88,000', \"Gargoyle's Blackblade\", \"Gargoyle's Black Halberd\"], 'Forbidden Lands:': ['60,000', \"Gargoyle's Black Axe\", \"Gargoyle's Black Blades\"]}",
+    "blockquote": "Valiant Gargoyles, mended with blackened corpse wax. Such is the mark of those who serve Maliketh, the Black Blade. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Bestial Sanctum",
+        "drops": ["88,000", "Gargoyle's Blackblade", "Gargoyle's Black Halberd"]
+      },
+      {
+        "location": "Forbidden Lands",
+        "drops": ["60,000", "Gargoyle's Black Axe", "Gargoyle's Black Blades"]
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Death Rite Bird",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/death_rite_bird_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Academy Gate Town:': ['7,800', 'Ancient Death Rancor'], 'Caelid': ['15,000', \"Death's Poker\"], 'Mountaintops of the Giants:': ['77,000', 'Death Ritual Spear'], 'Apostate Derelict:': ['220,000', 'Explosive Ghostflame'], \"Charo's Hidden Grave\": ['230,000', 'Ash of War: Ghostflame Call']}",
+    "blockquote": "In the time when there was no Erdtree, death was burned in ghostflame. Deathbirds were the keepers of that fire. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Academy Gate Town",
+        "drops": ["7,800", "Ancient Death Rancor"]
+      },
+      {
+        "location": "Caelid",
+        "drops": ["15,000", "Death's Poker"]
+      },
+      {
+        "location": "Mountaintops of the Giants",
+        "drops": ["77,000", "Death Ritual Spear"]
+      },
+      {
+        "location": "Apostate Derelict",
+        "drops": ["220,000", "Explosive Ghostflame"]
+      },
+      {
+        "location": "Charo's Hidden Grave",
+        "drops": ["230,000", "Ash of War: Ghostflame Call"]
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Sir Gideon Ofnir, The All-Knowing",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/sir_gideon_ofnir_the_all_knowing_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "6,226",
+    "Locations & Drops": "{'Leyndell, Ashen Capital': ['35,500', 'All-Knowing Set', 'Scepter of the All-Knowing']}",
+    "blockquote": "Queen Marika has high hopes for us. That we continue to struggle, unto eternity. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Leyndell, Ashen Capital",
+        "drops": ["35,500", "All-Knowing Set", "Scepter of the All-Knowing"]
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Tibia Mariner",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/tibia-mariner_ground_boss_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Summonwater Village': ['2,400', 'Deathroot', 'Skeletal Militiaman Ashes'], 'Liurnia of the Lakes:': ['4,700', 'Deathroot', 'Skeletal Bandit Ashes'], 'Wyndham Ruins:': ['14,000', 'Deathroot', \"Tibia's Summons\"], 'Mountaintops of the Giants:\\xa0': ['4,234', 'Deathroot', \"Helphen's Steeple\"], \"Charo's Hidden Grave\": ['9,959', \"Tibia's Cookbook\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Summonwater Village",
+        "drops": ["2,400", "Deathroot", "Skeletal Militiaman Ashes"]
+      },
+      {
+        "location": "Liurnia of the Lakes",
+        "drops": ["4,700", "Deathroot", "Skeletal Bandit Ashes"]
+      },
+      {
+        "location": "Wyndham Ruins",
+        "drops": ["14,000", "Deathroot", "Tibia's Summons"]
+      },
+      {
+        "location": "Mountaintops of the Giants: ",
+        "drops": ["4,234", "Deathroot", "Helphen's Steeple"]
+      },
+      {
+        "location": "Charo's Hidden Grave",
+        "drops": ["9,959", "Tibia's Cookbook"]
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Bloodhound Knight Darriwil",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodhound-knight-darriwil-boss-enemy-elden-ring-wiki-guide.jpg",
+    "HP": "1,450",
+    "Locations & Drops": "{'Forlorn Hound Evergaol': ['1,900', \"Bloodhound's Fang\"]}",
+    "blockquote": "Darriwil is nothing but a traitor. And in need of a fitting end to his tale. - Blaidd ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Forlorn Hound Evergaol",
+        "drops": ["1,900", "Bloodhound's Fang"]
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Esgar, Priest of Blood",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/esgar_priest_of_blood_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "3,511",
+    "Locations & Drops": "{'Leyndell Catacombs': ['30,000', \"Lord of Blood's Exultation\"]}",
+    "blockquote": "Aided by his two ferocious dogs, this Priest is capable of the deadliest hemorrhage-inducing attacks. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Leyndell Catacombs",
+        "drops": ["30,000", "Lord of Blood's Exultation"]
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Erdtree Avatar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree-avatar-weeping-peninsula-elden-rink-wiki-guide-1-small.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Minor Erdtree (Weeping Peninsula)': ['Runes 4,500 (NG)', 'Runes 3,600 (NG, Co-op Host)', 'Runes 930 (NG, Co-op Phantom)', 'Opaline Bubbletear', 'Crimsonburst Crystal Tear'], 'Minor Erdtree (Liurnia Southwest):': ['5,800', 'Cerulean Crystal Tear', 'Ruptured Crystal Tear'], 'Minor Erdtree (Liurnia Northeast):': ['5,800', 'Holy-Shrouding Cracked Tear', 'Lightning-Shrouding Cracked Tear', 'Magic-Shrouding Cracked Tear'], 'Leyndell, Royal Capital': ['10,062', \"Lord's Rune\"], 'Deeproot Depths:': ['10,621', 'Staff of the Avatar'], 'Minor Erdtree (Mountaintops East):': ['70,000 (NG)', '52,500 (NG, Co-op Host)', '17,500 (NG, Co-op Phantom)', 'Cerulean Crystal Tear', 'Crimson Bubbletear']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Minor Erdtree (Weeping Peninsula)",
+        "drops": [
+          "Runes 4,500 (NG)",
+          "Runes 3,600 (NG, Co-op Host)",
+          "Runes 930 (NG, Co-op Phantom)",
+          "Opaline Bubbletear",
+          "Crimsonburst Crystal Tear"
+        ]
+      },
+      {
+        "location": "Minor Erdtree (Liurnia Southwest)",
+        "drops": ["5,800", "Cerulean Crystal Tear", "Ruptured Crystal Tear"]
+      },
+      {
+        "location": "Minor Erdtree (Liurnia Northeast)",
+        "drops": [
+          "5,800",
+          "Holy-Shrouding Cracked Tear",
+          "Lightning-Shrouding Cracked Tear",
+          "Magic-Shrouding Cracked Tear"
+        ]
+      },
+      {
+        "location": "Leyndell, Royal Capital",
+        "drops": ["10,062", "Lord's Rune"]
+      },
+      {
+        "location": "Deeproot Depths",
+        "drops": ["10,621", "Staff of the Avatar"]
+      },
+      {
+        "location": "Minor Erdtree (Mountaintops East)",
+        "drops": [
+          "70,000 (NG)",
+          "52,500 (NG, Co-op Host)",
+          "17,500 (NG, Co-op Phantom)",
+          "Cerulean Crystal Tear",
+          "Crimson Bubbletear"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Alecto, Black Knife Ringleader",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/alecto_black_knife_ringleader_bosses_elden_ring_wiki_guide_300px.jpg",
+    "HP": "17,482",
+    "Locations & Drops": "{\"Ringleader's Evergaol\": ['88,000', 'Black Knife Tiche']}",
+    "blockquote": "The assassins who carried out the deed were scions of the Eternal City. A group entirely of women, arrayed in armour of silver under cloaks which fooled the eye. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Ringleader's Evergaol",
+        "drops": ["88,000", "Black Knife Tiche"]
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Grave Warden Duelist",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/grave-warden-duelist-2-small1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Murkwater Catacombs:': ['1,700', 'Banished Knight Engvall Ashes'], 'Auriza Side Tomb:': ['15,000', 'Soldjars of Fortune Ashes']}",
+    "blockquote": "Duelists who were exiled from the colosseum. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Murkwater Catacombs",
+        "drops": ["1,700", "Banished Knight Engvall Ashes"]
+      },
+      {
+        "location": "Auriza Side Tomb",
+        "drops": ["15,000", "Soldjars of Fortune Ashes"]
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Cleanrot Knight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_knight_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Stillwater Cave': ['2,475 Runes (NG)', '825 Runes (NG, Co-op)', 'Winged Sword Insignia', \"Cleanrot Knight's Sword\"], 'Abandoned Cave:': ['7,000', 'Gold Scarab']}",
+    "blockquote": "The Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles fiercest of all. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Stillwater Cave",
+        "drops": [
+          "2,475 Runes (NG)",
+          "825 Runes (NG, Co-op)",
+          "Winged Sword Insignia",
+          "Cleanrot Knight's Sword"
+        ]
+      },
+      {
+        "location": "Abandoned Cave",
+        "drops": ["7,000", "Gold Scarab"]
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Omenkiller",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/omenkiller-3-elden-ring-wiki-guide.jpg",
+    "HP": "2,306",
+    "Locations & Drops": "{'Village of the Albinaurics': ['4,900', 'Crucible Knot Talisman']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Village of the Albinaurics",
+        "drops": ["4,900", "Crucible Knot Talisman"]
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Spiritcaller Snail",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/spirit-caller_snail_elden_ring_wiki_guide_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{\"Road's End Catacombs\": ['2,250 Runes (NG)', '750 Runes (NG, Co-op)', 'Glintstone Sorcerer Ashes'], \"Spiritcaller's Cave:\": ['70,000', 'Black Flame Ritual', 'Godskin Swaddling Cloth']}",
+    "blockquote": "A strange snail-like creature that gives off a pale glow. While weak on their own, they summon forth spirits from beyond to fight on their behalf. But once the snail dies, the spirit will vanish. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Road's End Catacombs",
+        "drops": [
+          "2,250 Runes (NG)",
+          "750 Runes (NG, Co-op)",
+          "Glintstone Sorcerer Ashes"
+        ]
+      },
+      {
+        "location": "Spiritcaller's Cave",
+        "drops": ["70,000", "Black Flame Ritual", "Godskin Swaddling Cloth"]
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Ulcerated Tree Spirit",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ulcerated_tree_spirit1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{\"Fringefolk Hero's Grave\": ['15,000', 'Golden Seed', 'Banished Knight Oleg'], 'Stormveil Castle': ['4,736', 'Golden Seed'], 'Minor Erdtree (Mt. Gelmir)': ['18,000', 'Leaden Hardtear', 'Cerulean Hidden Tear'], 'Capital Outskirts': ['8,820', 'Golden Seed'], 'Leyndell Royal Capital': ['9,828', 'Golden Seed'], \"Giants' Mountaintop Catacombs:\": ['48,000', 'Golden Seed', \"Glovewort Picker's Bell Bearing [2]\"], 'Leyndell\\xa0Ashen Capital': ['18,749 each'], 'Belurat, Tower Settlement': ['18,346', 'Immunizing Horn Charm +2'], 'Ellac River': ['18,522', 'Horned Bairn'], 'Church District': ['22,218', 'Iris of Occultation (Rotunda)', 'Mantle of Thorns (Courtyard)']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Fringefolk Hero's Grave",
+        "drops": ["15,000", "Golden Seed", "Banished Knight Oleg"]
+      },
+      {
+        "location": "Stormveil Castle",
+        "drops": ["4,736", "Golden Seed"]
+      },
+      {
+        "location": "Minor Erdtree (Mt. Gelmir)",
+        "drops": ["18,000", "Leaden Hardtear", "Cerulean Hidden Tear"]
+      },
+      {
+        "location": "Capital Outskirts",
+        "drops": ["8,820", "Golden Seed"]
+      },
+      {
+        "location": "Leyndell Royal Capital",
+        "drops": ["9,828", "Golden Seed"]
+      },
+      {
+        "location": "Giants' Mountaintop Catacombs",
+        "drops": [
+          "48,000",
+          "Golden Seed",
+          "Glovewort Picker's Bell Bearing [2]"
+        ]
+      },
+      {
+        "location": "Leyndell Ashen Capital",
+        "drops": ["18,749 each"]
+      },
+      {
+        "location": "Belurat, Tower Settlement",
+        "drops": ["18,346", "Immunizing Horn Charm +2"]
+      },
+      {
+        "location": "Ellac River",
+        "drops": ["18,522", "Horned Bairn"]
+      },
+      {
+        "location": "Church District",
+        "drops": [
+          "22,218",
+          "Iris of Occultation (Rotunda)",
+          "Mantle of Thorns (Courtyard)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Full-Grown Fallingstar Beast",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/full-grown-fallingstar-beast-1-elden-ring-wiki-guide.jpg",
+    "HP": "13,010",
+    "Locations & Drops": "{'Mt. Gelmir': ['21,000 Runes', '(NG)', '15,750 Runes (NG, Co-op Host)', '5,250 Runes (NG, Co-op Phantom)', 'Other Drops:', 'Somber Smithing Stone [6] 1x', 'Smithing Stone [6] x5', 'Fallingstar Beast Jaw']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Mt. Gelmir",
+        "drops": [
+          "21,000 Runes",
+          "(NG)",
+          "15,750 Runes (NG, Co-op Host)",
+          "5,250 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Somber Smithing Stone [6] 1x",
+          "Smithing Stone [6] x5",
+          "Fallingstar Beast Jaw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Demi-Human Queen Margot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/demi-human-queen-margot-boss-elden-ring-wiki-guide-300px-min.jpeg",
+    "HP": "3,971",
+    "Locations & Drops": "{'Volcano Cave': ['11,000', 'Jar Cannon']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Volcano Cave",
+        "drops": ["11,000", "Jar Cannon"]
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Demi-Human Queen Maggie",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/demi-human-queen-maggie-boss-elden-ring-wiki-guide-300px-min.jpeg",
+    "HP": "7,515",
+    "Locations & Drops": "{'Hermit Village': ['13,000', 'Memory Stone', 'Golden Rune [1]']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Hermit Village",
+        "drops": ["13,000", "Memory Stone", "Golden Rune [1]"]
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Onyx Lord",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/onyx-lord-1-elden-ring-wiki-guide.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Royal Grave Evergaol': ['3,600', 'Meteorite'], 'Sealed Tunnel': ['16,000', \"Onyx Lord's Greatsword\"]}",
+    "blockquote": "A race of ancients with skin of stone who were said to have risen to life when a meteor struck long ago. They were called lords in reverential fear of their destructive power. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Royal Grave Evergaol",
+        "drops": ["3,600", "Meteorite"]
+      },
+      {
+        "location": "Sealed Tunnel",
+        "drops": ["16,000", "Onyx Lord's Greatsword"]
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Abductor Virgins",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/abductor-virgins-1-elden-ring-wiki-guide.jpg",
+    "HP": "3,811 each",
+    "Locations & Drops": "{'Volcano Manor': ['10,000', \"Inquisitor's Girandole\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Volcano Manor",
+        "drops": ["10,000", "Inquisitor's Girandole"]
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Adan, Thief of Fire",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/adan_thief_of_fire_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "1,717",
+    "Locations & Drops": "{\"Malefactor's Evergaol\": ['3,800', 'Flame of the Fell God']}",
+    "blockquote": "The monks came to the land of Liurnia in pursuit of a fugitive who stole their fire. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Malefactor's Evergaol",
+        "drops": ["3,800", "Flame of the Fell God"]
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Onyx Lord",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/onyx-lord-1-elden-ring-wiki-guide.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Royal Grave Evergaol': ['3,600', 'Meteorite'], 'Sealed Tunnel': ['16,000', \"Onyx Lord's Greatsword\"]}",
+    "blockquote": "A race of ancients with skin of stone who were said to have risen to life when a meteor struck long ago. They were called lords in reverential fear of their destructive power. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Royal Grave Evergaol",
+        "drops": ["3,600", "Meteorite"]
+      },
+      {
+        "location": "Sealed Tunnel",
+        "drops": ["16,000", "Onyx Lord's Greatsword"]
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Ancient Dragon Lansseax",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ancient-dragon-lansseax-elden-ring-wiki-guide1-min.jpg",
+    "HP": "9,087",
+    "Locations & Drops": "{'Altus Plateau': ['60,000', \"Lansseax's Glaive\"]}",
+    "blockquote": "Lansseax was the sister of Fortissax. It is said that she took the form of a human to commune with the knights as a priestess of the ancient dragon cult. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Altus Plateau",
+        "drops": ["60,000", "Lansseax's Glaive"]
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Astel, Stars of Darkness",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/astel-stars-of-darkness-boss-elden-ring-wiki-guide.jpg",
+    "HP": "18,617",
+    "Locations & Drops": "{'Yelough Anix Tunnel': ['120,000', 'Meteorite of Astel']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Yelough Anix Tunnel",
+        "drops": ["120,000", "Meteorite of Astel"]
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Battlemage Hugues",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/battlemage-hugues-1-elden-ring-wiki-guide.jpg",
+    "HP": "4,095",
+    "Locations & Drops": "{'Sellia Evergaol': ['7,800', 'Battlemage Hugues Ashes']}",
+    "blockquote": "Hugues came from Sellia to study the Haima Conspectus at the academy, where he became a battlemage. Haima scholars seek to quell conflict with cannon fire and the gavel, but Hugues developed a longing for it. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Sellia Evergaol",
+        "drops": ["7,800", "Battlemage Hugues Ashes"]
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Bloodhound Knight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodgound_knight_liurnia_bosses_elden_ring_wiki_300px.jpg",
+    "HP": "1,985",
+    "Locations & Drops": "{'Lakeside Crystal Cave': ['2,700', 'Cerulean Amber Medallion']}",
+    "blockquote": "The Bloodhound Knights are trained as hunters and known to be unshakable trackers. Without the use of language, each knight chooses his own master. Once the decision has been made, the knight stays loyal for life. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Lakeside Crystal Cave",
+        "drops": ["2,700", "Cerulean Amber Medallion"]
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Bols, Carian Knight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bols_carian_knight_bosses_elden_ring_wiki_guide1.jpg",
+    "HP": "5,109",
+    "Locations & Drops": "{\"Cuckoo's Evergaol , Liurnia of the Lakes\": ['4,600, Greatblade Phalanx']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Cuckoo's Evergaol , Liurnia of the Lakes",
+        "drops": ["4,600, Greatblade Phalanx"]
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Commander O'Neil",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/commander_oniel1-min.jpg",
+    "HP": "9,210",
+    "Locations & Drops": "{'Swamp of Aeonia': ['12,000', \"Commander's Standard\", 'Unalloyed Gold Needle']}",
+    "blockquote": "Even after his lord was fled, Commander O'Neil continued to brandish his flag in the devastation of the rot-eaten field of battle, the sole veteran who remembers that battle with pride. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Swamp of Aeonia",
+        "drops": ["12,000", "Commander's Standard", "Unalloyed Gold Needle"]
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Commander Niall",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/capture1-min.jpg",
+    "HP": "15,541",
+    "Locations & Drops": "{'Castle Sol': ['90,000', \"Veteran's Prosthesis\"]}",
+    "blockquote": "Commander Niall, veteran of Castle Sol, offered his prosthesis in exchange for the lives of defeated knights held prisoner. He went on to lead these men as an army of no nation. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Castle Sol",
+        "drops": ["90,000", "Veteran's Prosthesis"]
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Crucible Knight Siluria",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_knight_siluria_elden_ring_wiki_guide_300px.jpg",
+    "HP": "4,606",
+    "Locations & Drops": "{'Deeproot Depths': ['25,000', \"Siluria's Tree\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Deeproot Depths",
+        "drops": ["25,000", "Siluria's Tree"]
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Demi-Human Queen Gilika",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/queen-gilika-elden-ring-wiki-600px.jpg",
+    "HP": "3,284",
+    "Locations & Drops": "{'Lux Ruins': ['8,500']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Lux Ruins",
+        "drops": ["8,500"]
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Deathbird",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/deathbird_elden_ring_wiki_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{\"Warmaster's Shack\": ['Runes 2,800 (NG)', 'Runes 700 (NG, Co-op)', 'Other Drops:', 'Blue-Feathered Branchsword'], 'Weeping Peninsula:': ['Runes 3,900 (NG)', 'Runes 975 (NG, Co-op)', 'Other Drops:', 'Sacrificial Axe'], 'Scenic Isle:': ['6,600 Runes (NG)', '? Runes (NG, Co-op Host)', '1,650 Runes (NG, Co-op Phantom)', 'Other Drops:', 'Red-Feathered Branchsword'], 'Capital Outskirts:': ['29,000 (NG)', '63,250 Runes (NG+3)', 'Other Drops:', 'Twinbird Kite Shield']}",
+    "blockquote": "The Deathbirds are graveyard fire keepers; it is said they rake out the ashen remains of the dead from their kilns. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Warmaster's Shack",
+        "drops": [
+          "Runes 2,800 (NG)",
+          "Runes 700 (NG, Co-op)",
+          "Other Drops:",
+          "Blue-Feathered Branchsword"
+        ]
+      },
+      {
+        "location": "Weeping Peninsula",
+        "drops": [
+          "Runes 3,900 (NG)",
+          "Runes 975 (NG, Co-op)",
+          "Other Drops:",
+          "Sacrificial Axe"
+        ]
+      },
+      {
+        "location": "Scenic Isle",
+        "drops": [
+          "6,600 Runes (NG)",
+          "? Runes (NG, Co-op Host)",
+          "1,650 Runes (NG, Co-op Phantom)",
+          "Other Drops:",
+          "Red-Feathered Branchsword"
+        ]
+      },
+      {
+        "location": "Capital Outskirts",
+        "drops": [
+          "29,000 (NG)",
+          "63,250 Runes (NG+3)",
+          "Other Drops:",
+          "Twinbird Kite Shield"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Elemer of the Briar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/element_of_the_briar_bosses_elden_ring_wiki_guide_300px.jpg",
+    "HP": "4,897",
+    "Locations & Drops": "{'The Shaded Castle': ['24,000 Runes (NG)', '18,000 Runes (NG, Co-op Host)', '6,000 Runes (NG, Co-op Phantom)', \"Marais Executioner's Sword\", 'Briar Greatshield']}",
+    "blockquote": "Elemer of the Briar, the Bell Bearing Hunter, snatched the sword from the site of his looming execution, and furnished it with battle skills from his home of Eochaid ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "The Shaded Castle",
+        "drops": [
+          "24,000 Runes (NG)",
+          "18,000 Runes (NG, Co-op Host)",
+          "6,000 Runes (NG, Co-op Phantom)",
+          "Marais Executioner's Sword",
+          "Briar Greatshield"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Golem",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golem_hostile_humanoids_elden_ring_wiki_guide_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Stormhill Castle Morne Ainsel River Well Leyndell, Royal Capital Mountaintops of the Giants': [\"844 - 3927 Runes Golem's Halberd Golem Greatbow Great Arrow Golem's Great Arrow Golem's Magic Arrow Smithing Stones\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Stormhill Castle Morne Ainsel River Well Leyndell, Royal Capital Mountaintops of the Giants",
+        "drops": [
+          "844 - 3927 Runes Golem's Halberd Golem Greatbow Great Arrow Golem's Great Arrow Golem's Magic Arrow Smithing Stones"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Fallingstar Beast",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fallingstar_beast_altus_plateau_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Sellia Crystal Tunnel': ['7,600', \"Somberstone Miner's Bell Bearing (1)\", 'Smithing Stone (7) x5', 'Somber Smithing Stone (6)', 'Gravity Stone Chunk x4'], 'Altus Plateau:': ['11,000', 'Somber Smithing Stone (5)', 'Smithing Stone (6) x5', 'Gravity Stone Fan', 'Gravity Stone Chunk'], 'Finger Ruins of Dheo:': ['170,000', 'Gravitational Missile']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Sellia Crystal Tunnel",
+        "drops": [
+          "7,600",
+          "Somberstone Miner's Bell Bearing (1)",
+          "Smithing Stone (7) x5",
+          "Somber Smithing Stone (6)",
+          "Gravity Stone Chunk x4"
+        ]
+      },
+      {
+        "location": "Altus Plateau",
+        "drops": [
+          "11,000",
+          "Somber Smithing Stone (5)",
+          "Smithing Stone (6) x5",
+          "Gravity Stone Fan",
+          "Gravity Stone Chunk"
+        ]
+      },
+      {
+        "location": "Finger Ruins of Dheo",
+        "drops": ["170,000", "Gravitational Missile"]
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Fia's Champions",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fias-champion-1-elden-ring-wiki-guide.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Deeproot Depths': ['40,000', \"Fia's Mist\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Deeproot Depths",
+        "drops": ["40,000", "Fia's Mist"]
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Flying Dragon Greyll",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/flying_dragon_greyll_bosses_elden_ring_wiki_guide_300px.jpg",
+    "HP": "11,500",
+    "Locations & Drops": "{'Dragonbarrow': ['80,000, Dragon Heart']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Dragonbarrow",
+        "drops": ["80,000, Dragon Heart"]
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Frenzied Duelist",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/frenzied-duelist-axe-elden-ring-wiki-guide-300px.jpg",
+    "HP": "3,079",
+    "Locations & Drops": "{'Gaol Cave': ['6,700', 'Putrid Corpse Ashes']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Gaol Cave",
+        "drops": ["6,700", "Putrid Corpse Ashes"]
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Glintstone Dragon Smarag",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone-dragon-smarag-boss-elden-ring-wiki-guide.jpg",
+    "HP": "6,069",
+    "Locations & Drops": "{'Liurnia of the Lakes': ['14,000, Dragon Heart']}",
+    "blockquote": "Smarag was a devourer of sorcerers, and over time, his body became corrupted by their glintstones. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Liurnia of the Lakes",
+        "drops": ["14,000, Dragon Heart"]
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "name": "God-Devouring Serpent",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/god-devouring-serpent-elden-ring-wiki-guide1-min.jpg",
+    "HP": "≈ 30439 (Demi God)",
+    "Locations & Drops": "{'Mt. Gelmir': ['Volcano Manor :', '130,000 Runes', \"Rykard's Great Rune\", 'Remembrance of the Blasphemous']}",
+    "blockquote": "The great serpent of Mt. Gelmir that swallowed Praetor Rykard. Attacks with poisonous spit, bites, and slams. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Mt. Gelmir",
+        "drops": [
+          "Volcano Manor :",
+          "130,000 Runes",
+          "Rykard's Great Rune",
+          "Remembrance of the Blasphemous"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Godefroy The Grafted",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/goderoy-the-grafted-boss-elden-ring.jpg",
+    "HP": "12419",
+    "Locations & Drops": "{'Golden Lineage Evergaol': ['26,000, Godfrey Icon 78,000, Godfrey Icon (NG+1)']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Golden Lineage Evergaol",
+        "drops": ["26,000, Godfrey Icon 78,000, Godfrey Icon (NG+1)"]
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Godfrey, First Elden Lord (Golden Shade)",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/godfrey_golden_shade_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "7099",
+    "Locations & Drops": "{'Leyndell, Royal Capital': ['80,000', 'Talisman Pouch (NG Only)']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Leyndell, Royal Capital",
+        "drops": ["80,000", "Talisman Pouch (NG Only)"]
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Godskin Apostle",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/apostle1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Dominula, Windmill Village': ['14,000', 'Godskin Peeler', 'Scouring Black Flame'], 'Divine Tower of Caelid:': ['94,000', 'Godskin Apostle Set']}",
+    "blockquote": "The apostles, once said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Dominula, Windmill Village",
+        "drops": ["14,000", "Godskin Peeler", "Scouring Black Flame"]
+      },
+      {
+        "location": "Divine Tower of Caelid",
+        "drops": ["94,000", "Godskin Apostle Set"]
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Godskin Noble",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_noble_elden_ring_wiki_600px.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Volcano Manor': ['50,000', \"Serpent's Amnion\", 'Godskin Stitcher', 'Noble Presence'], 'Divine Tower of Liurnia:': ['4.810', 'Godskin Noble Set']}",
+    "blockquote": "Nobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Volcano Manor",
+        "drops": [
+          "50,000",
+          "Serpent's Amnion",
+          "Godskin Stitcher",
+          "Noble Presence"
+        ]
+      },
+      {
+        "location": "Divine Tower of Liurnia",
+        "drops": ["4.810", "Godskin Noble Set"]
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Great Wyrm Theodorix",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/great_wyrm_theodorix_elden_ring_wiki_guide_300px.jpg",
+    "HP": "25,649",
+    "Locations & Drops": "{'Consecrated Snowfield': ['180,000 Runes (NG)', '135,000 Runes (NG, Co-op Host)', '45,000 Runes (NG, Co-op Phantom)', 'Dragon Heart x3']}",
+    "blockquote": "The name of the ancient troll warrior Theodorix lives on — as a hero of the War against the Giants. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Consecrated Snowfield",
+        "drops": [
+          "180,000 Runes (NG)",
+          "135,000 Runes (NG, Co-op Host)",
+          "45,000 Runes (NG, Co-op Phantom)",
+          "Dragon Heart x3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Guardian Golem",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/guardian-golem-field-boss-elden-ring-wiki-guide.jpg",
+    "HP": "5,974",
+    "Locations & Drops": "{'Highroad Cave': ['1,700 Runes (NG)', '600 Runes (NG, Co-op)', 'Blue Dancer Charm']}",
+    "blockquote": "One of the many constructs found across the Lands Between. It wields a large halberd to attack, along with being able to breath fire on anything below it. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Highroad Cave",
+        "drops": [
+          "1,700 Runes (NG)",
+          "600 Runes (NG, Co-op)",
+          "Blue Dancer Charm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Kindred of Rot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/miner_prawn_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "2,034 each",
+    "Locations & Drops": "{'Seethewater Cave': ['10,000', \"Kindred of Rot's Exultation\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Seethewater Cave",
+        "drops": ["10,000", "Kindred of Rot's Exultation"]
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Lion Guardian",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lion_guardian_enemies_elden_ring_wiki_600px.jpg",
+    "HP": "2,119 - 7,019 HP",
+    "Locations & Drops": "{'Stormveil Castle Fort Gael (Caelid) Redmane Castle Castle Sol Leyndell, Royal Capital': ['Stormveil Castle :', '1138 Runes', 'Somber Smithing Stone [1]', 'Beast Blood', 'Old Fang x2']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Stormveil Castle Fort Gael (Caelid) Redmane Castle Castle Sol Leyndell, Royal Capital",
+        "drops": [
+          "Stormveil Castle :",
+          "1138 Runes",
+          "Somber Smithing Stone [1]",
+          "Beast Blood",
+          "Old Fang x2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Loretta, Knight of the Haligtree",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/loretta-knight-of-the-haligtree-1-elden-ring-wiki-guide.jpg",
+    "HP": "13,397",
+    "Locations & Drops": "{\"Miquella's Haligtree\": ['200,000', \"Loretta's Mastery\", \"Loretta's War Sickle\"]}",
+    "blockquote": "Loretta, once a royal Carian Knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Miquella's Haligtree",
+        "drops": ["200,000", "Loretta's Mastery", "Loretta's War Sickle"]
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Magma Wyrm",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/magma_wyrm_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Gael Tunnel': ['7,500', 'Dragon Heart', 'Moonveil'], 'Fort Laiedd:': ['19,000', 'Dragon Heart'], 'Volcano Manor': ['5,044', 'Other Drops:', 'Dragon Heart'], \"Dragon's Pit\": ['7,718', 'Dragon Heart', 'Ancient Dragon Smithing Stone']}",
+    "blockquote": "Those who have performed the Dragon Communion will find their humanity slowly slipping away. Once they fully succumb to their fate, they are left no more than wyrms that crawl the earth. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Gael Tunnel",
+        "drops": ["7,500", "Dragon Heart", "Moonveil"]
+      },
+      {
+        "location": "Fort Laiedd",
+        "drops": ["19,000", "Dragon Heart"]
+      },
+      {
+        "location": "Volcano Manor",
+        "drops": ["5,044", "Other Drops:", "Dragon Heart"]
+      },
+      {
+        "location": "Dragon's Pit",
+        "drops": ["7,718", "Dragon Heart", "Ancient Dragon Smithing Stone"]
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Magma Wyrm Makar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/magma-wyrm-3-elden-ring-wiki-guide.jpg",
+    "HP": "7141",
+    "Locations & Drops": "{'Ruin-Strewn Precipice': ['24,000 Runes (NG)', '6000 Runes (NG, Co-op) Other Drops:', \"Magma Wyrm's Scalesword\", 'Dragon Heart']}",
+    "blockquote": "It's said these land-bound dragons were once human heroes who partook in dragon communion, a grave transgression for which they were cursed to crawl the earth upon their bellies, shadows of their former selves. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Ruin-Strewn Precipice",
+        "drops": [
+          "24,000 Runes (NG)",
+          "6000 Runes (NG, Co-op) Other Drops:",
+          "Magma Wyrm's Scalesword",
+          "Dragon Heart"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Miranda The Blighted Bloom",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/miranda-the-blighted-bloom-field-boss-elden-ring-wiki-guide-300px.jpg",
+    "HP": "2,483",
+    "Locations & Drops": "{'Tombsward Cave': ['Runes 2,100 (NG)', 'Runes 525 (NG, Co-op)', 'Viridian Amber Medallion']}",
+    "blockquote": "Miranda, maiden of the Flower Crucible is said to have been the very first of this breed. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Tombsward Cave",
+        "drops": [
+          "Runes 2,100 (NG)",
+          "Runes 525 (NG, Co-op)",
+          "Viridian Amber Medallion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Misbegotten Crusader",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/misbegotten-crusader-elden-ring-wiki-guide-300px.jpeg",
+    "HP": "9,130",
+    "Locations & Drops": "{'Cave of the Forlorn': ['93,000', 'Golden Order Greatsword']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Cave of the Forlorn",
+        "drops": ["93,000", "Golden Order Greatsword"]
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Misbegotten Warrior",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/misbegotten_warrior_enemies_elden_ring_wiki_300px.jpg",
+    "HP": "≈ 3560 ( Field Boss )",
+    "Locations & Drops": "{'Unsightly Catacombs': ['Unsightly Catacombs :', '9400 Runes', 'Perfumer Tricia Ashes Redmane Castle :', '16000 Runes', 'Ruins Greatsword']}",
+    "blockquote": "A Vicious beast that has lost all reason, attacking indiscriminately. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Unsightly Catacombs",
+        "drops": [
+          "Unsightly Catacombs :",
+          "9400 Runes",
+          "Perfumer Tricia Ashes Redmane Castle :",
+          "16000 Runes",
+          "Ruins Greatsword"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Mohg, the Omen",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/mogh_the_omen1-min.jpg",
+    "HP": "14,000",
+    "Locations & Drops": "{'Subterranean Shunning-Grounds': ['100,000', 'Bloodflame Talons']}",
+    "blockquote": "The reigning lord and hierarch of the coming dynasty of Mohgwyn. Or perhaps, of a raving lunatic. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Subterranean Shunning-Grounds",
+        "drops": ["100,000", "Bloodflame Talons"]
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Necromancer Garris",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/necromancer-garris-elden-ring-wiki-600px.jpg",
+    "HP": "3,202",
+    "Locations & Drops": "{\"Sage's Cave , Altus Plateau\": ['9,000', 'Family Heads']}",
+    "blockquote": "The heads of his flail were made to resemble those of his wife and two children. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Sage's Cave , Altus Plateau",
+        "drops": ["9,000", "Family Heads"]
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Nox Swordstress & Nox Monk",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/nox-swordstress-nox-monk_-1-elden-ring-wiki-guide.jpg",
+    "HP": "1,631 each",
+    "Locations & Drops": "{'Sellia, Town of Sorcery': ['6,400', 'Nox Flowing Sword']}",
+    "blockquote": "Long ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Sellia, Town of Sorcery",
+        "drops": ["6,400", "Nox Flowing Sword"]
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Patches",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/patches-npc-photo-elden-ring-wiki-guide-300px-min.jpg",
+    "HP": "1,191",
+    "Locations & Drops": "{'Murkwater Cave , Limgrave Liurnia Mt. Gelmir Volcano Manor The Shaded Castle': ['Spared:', '800', 'Golden Rune [1] x2', 'Grovel for Mercy', 'Slain:', 'Spear +7', 'Leather Armor', 'Leather Gloves', 'Leather Boots', \"Patches' Bell Bearing\"]}",
+    "blockquote": "Well, well, well? Thought you'd just help yourself to a man's personal belongings? ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Murkwater Cave , Limgrave Liurnia Mt. Gelmir Volcano Manor The Shaded Castle",
+        "drops": [
+          "Spared:",
+          "800",
+          "Golden Rune [1] x2",
+          "Grovel for Mercy",
+          "Slain:",
+          "Spear +7",
+          "Leather Armor",
+          "Leather Gloves",
+          "Leather Boots",
+          "Patches' Bell Bearing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Putrid Avatar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/putrid-avatar-1-elden-ring-wiki-guide.jpg",
+    "HP": "",
+    "Locations & Drops": "{'Minor Erdtree (Caelid):': ['9,600', 'Greenburst Crystal Tear', 'Flame-Shrouding Cracked Tear'], 'Minor Erdtree (Dragonbarrow):': ['91,000', 'Opaline Hardtear', 'Stonebarb Cracked Tear'], 'Minor Erdtree (Consecrated Snowfield):': ['160,000', 'Ruptured Crystal Tear', 'Thorny Cracked Tear'], 'Elphael, Brace of the Haligtree:': ['27,090', 'Walkway: Rotten Staff', \"Gateway: Lord's Rune\"]}",
+    "blockquote": "Guardians of the Minor Erdtrees, infested with Scarlet Rot. Their large staff can knock foes away, and their slam attack releases a cloud of rot, quickly leading to enemies’ demise. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Minor Erdtree (Caelid)",
+        "drops": [
+          "9,600",
+          "Greenburst Crystal Tear",
+          "Flame-Shrouding Cracked Tear"
+        ]
+      },
+      {
+        "location": "Minor Erdtree (Dragonbarrow)",
+        "drops": ["91,000", "Opaline Hardtear", "Stonebarb Cracked Tear"]
+      },
+      {
+        "location": "Minor Erdtree (Consecrated Snowfield)",
+        "drops": ["160,000", "Ruptured Crystal Tear", "Thorny Cracked Tear"]
+      },
+      {
+        "location": "Elphael, Brace of the Haligtree",
+        "drops": ["27,090", "Walkway: Rotten Staff", "Gateway: Lord's Rune"]
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Putrid Grave Warden Duelist",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/putrid-grave-warden-duelist-boss-elden-ring-wiki-guide.jpg",
+    "HP": "8,800",
+    "Locations & Drops": "{'Consecrated Snowfield Catacombs': ['Runes 78,000', 'Runes 58,500 (Coop)', 'Great Grave Glovewort x2', 'Rotten Gravekeeper Cloak']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Consecrated Snowfield Catacombs",
+        "drops": [
+          "Runes 78,000",
+          "Runes 58,500 (Coop)",
+          "Great Grave Glovewort x2",
+          "Rotten Gravekeeper Cloak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Putrid Tree Spirit",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/putrid-tree-spirit-boss-elden-ring-wiki-guide-300px-min.jpeg",
+    "HP": "",
+    "Locations & Drops": "{'War-Dead Catacombs': ['64,000', 'Redmane Knight Ogha Spirit Ashes', 'Golden Seed'], 'Grand Cloister': ['11,193', 'Golden Seed'], 'Elphael, Brace of the Haligtree': ['26,460', 'Golden Seed']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "War-Dead Catacombs",
+        "drops": ["64,000", "Redmane Knight Ogha Spirit Ashes", "Golden Seed"]
+      },
+      {
+        "location": "Grand Cloister",
+        "drops": ["11,193", "Golden Seed"]
+      },
+      {
+        "location": "Elphael, Brace of the Haligtree",
+        "drops": ["26,460", "Golden Seed"]
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Red Wolf of the Champion",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/red-wolf-of-radagon-3-elden-ring-wiki-guide.jpg",
+    "HP": "3,162",
+    "Locations & Drops": "{\"Gelmir Hero's Grave\": ['21,000 Runes', '15,750 Runes (NG, Co-op Host)', '5,250 Runes (NG, Co-op Phantom)', 'Other Drops', 'Bloodhound Knight Floh']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Gelmir Hero's Grave",
+        "drops": [
+          "21,000 Runes",
+          "15,750 Runes (NG, Co-op Host)",
+          "5,250 Runes (NG, Co-op Phantom)",
+          "Other Drops",
+          "Bloodhound Knight Floh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Roundtable Knight Vyke",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/vyke-1-elden-ring-wiki-guide.jpg",
+    "HP": "5,366",
+    "Locations & Drops": "{\"Lord Contender's Evergaol\": ['21,000 Runes', '15,750 Runes (NG, Co-op Host)', '5,250 Runes (NG, Co-op Phantom)', 'Other Drops', 'Bloodhound Knight Floh']}",
+    "blockquote": "No other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy. Did he make his choice for his maiden, or did some other force lure him with suggestion? ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Lord Contender's Evergaol",
+        "drops": [
+          "21,000 Runes",
+          "15,750 Runes (NG, Co-op Host)",
+          "5,250 Runes (NG, Co-op Phantom)",
+          "Other Drops",
+          "Bloodhound Knight Floh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Royal Knight Loretta",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_knight_loretta_bosses_elden_ring_wiki_guide1-min.jpg",
+    "HP": "4,214",
+    "Locations & Drops": "{'Caria Manor': ['7,500 (NG)', '2,500 (NG, Co-op)', \"Loretta's Greatbow\", \"Ash of War: Loretta's Slash\"]}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Caria Manor",
+        "drops": [
+          "7,500 (NG)",
+          "2,500 (NG, Co-op)",
+          "Loretta's Greatbow",
+          "Ash of War: Loretta's Slash"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Royal Revenant",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/royal-revenant-1-elden-ring-wiki-guide.jpg",
+    "HP": "3,077",
+    "Locations & Drops": "{'Kingsrealm Ruins': ['3,100']}",
+    "blockquote": "An obscene and disturbing abomination, blend of a spider-like creature and human limbs resulting in a quite resourceful fighter at close range. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Kingsrealm Ruins",
+        "drops": ["3,100"]
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Sanguine Noble",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/sanguine-noble-6-elden-ring-wiki-guide.jpg",
+    "HP": "3,128",
+    "Locations & Drops": "{'Writheblood Ruins': ['8,800']}",
+    "blockquote": "Known to strike from pools of blood, these assassins are missionaries come to share the gospel of accursed blood. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Writheblood Ruins",
+        "drops": ["8,800"]
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Scaly Misbegotten",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/scaly_misbegotten.jpg",
+    "HP": "1,360",
+    "Locations & Drops": "{'Morne Tunnel': ['2,000', 'Rusted Anchor']}",
+    "blockquote": "The misbegotten are held to be a punishment for making contact with the Crucible, and from birth they are treated as slaves, or worse. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Morne Tunnel",
+        "drops": ["2,000", "Rusted Anchor"]
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Mimic Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/mimic-tear-boss-enemies-elden-ring-wiki-guide-300px.jpg",
+    "HP": "≈ 19,536 (GREAT ENEMY)",
+    "Locations & Drops": "{'Nokron, Eternal City Hidden Path to the Haligtree': ['Nokron, Eternal City : 10.000 Runes', '33.750 Runes (NG+3)', 'Larval Tear x2', 'Silver Tear Mask Hidden Path to the Haligtree:', '5 0,000 Runes (NG)', '37,500 Runes (NG, Co-op Host)', '12,500 Runes (NG, Co-op Phantom)', '105,000 Runes (NG+1)', 'Blackflame Monk Amon Ashes']}",
+    "blockquote": "Those of the Eternal City have created a special type of Silver Tear, capable of completely mimicking its opponent, along with any spells, skills and armaments they have. ",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Nokron, Eternal City Hidden Path to the Haligtree",
+        "drops": [
+          "Nokron, Eternal City : 10.000 Runes",
+          "33.750 Runes (NG+3)",
+          "Larval Tear x2",
+          "Silver Tear Mask Hidden Path to the Haligtree:",
+          "5 0,000 Runes (NG)",
+          "37,500 Runes (NG, Co-op Host)",
+          "12,500 Runes (NG, Co-op Phantom)",
+          "105,000 Runes (NG+1)",
+          "Blackflame Monk Amon Ashes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Wormface",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/wormface-boss-elden-ring-wiki-guide-300px.jpeg",
+    "HP": "",
+    "Locations & Drops": "{'Minor Erdtree (Altus Plateau):': ['10,000', 'Crimsonspill Crystal Tear', 'Speckled Hardtear'], 'Minor Erdtree (Mt. Gelmir):': ['2,937', 'Larval Tear'], 'Crumbling Farum Azula:': ['6,812']}",
+    "blockquote": "",
+    "dlc": "0",
+    "LocationsAndDrops": [
+      {
+        "location": "Minor Erdtree (Altus Plateau)",
+        "drops": ["10,000", "Crimsonspill Crystal Tear", "Speckled Hardtear"]
+      },
+      {
+        "location": "Minor Erdtree (Mt. Gelmir)",
+        "drops": ["2,937", "Larval Tear"]
+      },
+      {
+        "location": "Crumbling Farum Azula",
+        "drops": ["6,812"]
+      }
+    ]
+  }
+]

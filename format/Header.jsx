@@ -26,8 +26,8 @@ export default function Header() {
         <NavLink className="nav-link" to="/weapons">
           Weapons
         </NavLink>
-        <NavLink className="nav-link" to="/category3">
-          Category 3
+        <NavLink className="nav-link" to="/enemies">
+          Enemies
         </NavLink>
       </nav>
     </header>

@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import "./Builds.css";
-import { DataContext } from "../../Components/WeaponsComp/DataProvider";
+import { DataContext } from "../../Data/DataProvider";
 import { BuildStateContext } from "./BuildStateProvider";
 import BuildSelector from "./BuildSelector";
 import BuildSidebar from "./BuildSidebar";
@@ -81,12 +81,12 @@ export default function Builds() {
 
   const setCurrentBuild = (saveName) => {
     const newBuild = {
-      name: saveName, // Add the save name to the build object
+      name: saveName,
       armor: buildState.armor,
       weapons: buildState.weapons,
       talismans: buildState.talismans,
     };
-    setSavedBuilds((prev) => [...prev, newBuild]); // Save the build with the name
+    setSavedBuilds((prev) => [newBuild, ...prev]);
   };
   const wipeBuilds = () => {
     setSavedBuilds([]);
@@ -100,7 +100,7 @@ export default function Builds() {
     e.preventDefault();
     handleCurrentSave();
     setCurrentBuild(saveName);
-    setSaveName(e);
+    setSaveName("");
   };
 
   return (
@@ -144,6 +144,7 @@ export default function Builds() {
                 handleSaveSubmission={handleSaveSubmission}
                 saveName={saveName}
                 setSaveName={setSaveName}
+                setSavedBuild={setSavedBuilds}
               />
             </div>
           </div>

@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { DataContext } from "../../Components/WeaponsComp/DataProvider";
+import { DataContext } from "../../Data/DataProvider";
 import "./Builds.css";
 
 export default function BuildSidebar({

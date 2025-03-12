@@ -7,7 +7,6 @@ import BuildSidebar from "./BuildSidebar";
 import SaveBuildModal from "./SaveBuildModal";
 
 export default function Builds() {
-  const id = "0";
   const [saveBuild, setSaveBuild] = useState(false);
   const [saveName, setSaveName] = useState("");
   const { weapons, armor, talismans } = useContext(DataContext);

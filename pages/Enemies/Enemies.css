@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+}
+
+.enemies-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.enemies-list-content {
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+}
+
+.enemy-item {
+  list-style: none;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.enemy-item:hover {
+  color: rgb(170, 169, 169);
+}
+
+/* MODAL */
+
+.modal-container {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  left: 900px;
+  z-index: 1000;
+  background: rgb(0, 0, 0);
+  width: 700px;
+  height: 600px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 13px;
+  padding: 30px;
+}
+
+.selected-enemy-img {
+  width: 300px;
+  max-height: 300px;
+}
